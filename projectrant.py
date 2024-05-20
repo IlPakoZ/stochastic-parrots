@@ -4,25 +4,39 @@ from collections import defaultdict
 from simple_lm import *
 import re
 import random
-import gzip
 import pandas as pd
+import os
 
-context_length = 2
-tokenizer = SpaceTokenizer()
+context_length = 3
+tokenizer = WhitespaceTokenizer()
+dir = "../r9k/res/"
 
 #table = pd.read_csv("outputgreaterthan.csv")
 #table.to_json("output.json", orient="index")
-file = open("output.json", "r")
-data = json.load(file)
+#file = open("output.json", "r")
+#data = json.load(file)
 
+    
 
 # ------- Preprocessing here ----------
 
 # -------------------------------------
+def load_dataset():
+    freq_table = defaultdict(list)
 
-freq_table = defaultdict(list)
+    rants = []
+    for filename in os.listdir(dir):
+        if not os.path.isfile(dir+filename):
+            continue
+        
+        f = open(dir+filename, "r", encoding="utf-8")
+        body = f.read()
+        body = "\n".join(s.strip() for s in body.split('\n'))
+        tokens = tokenizer.tokenize(body)
+        freq_table = get_next_token_table(tokens, context_length, freq_table)
 
-rants = []
+    return freq_table
+"""
 for _, d in data.items():
     body = d['body']
 
@@ -30,10 +44,12 @@ for _, d in data.items():
     d['tokens'] = tokens = tokenizer.tokenize(body)
     freq_table = get_next_token_table(tokens, context_length, freq_table)
     rants.append(d)
+"""
+freq_table = load_dataset()
 
-bodies = [b for b in rants]
-initial_context = ["Am", "I", "stupid?", "\n"]
-generator = generate_tokens(freq_table, initial_context)
+
+initial_context = ["How", "are", "you?"]
+generator = generate_tokens(freq_table, initial_context[-context_length:])
 text = tokenizer.untokenize(generator)
 print(text)
 """
