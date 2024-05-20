@@ -10,8 +10,8 @@ import pandas as pd
 context_length = 2
 tokenizer = SpaceTokenizer()
 
-table = pd.read_csv("outputgreaterthan.csv")
-table.to_json("output.json", orient="index")
+#table = pd.read_csv("outputgreaterthan.csv")
+#table.to_json("output.json", orient="index")
 file = open("output.json", "r")
 data = json.load(file)
 
@@ -24,7 +24,6 @@ freq_table = defaultdict(list)
 
 rants = []
 for _, d in data.items():
-    # Trim the lines
     body = d['body']
 
     body = "\n".join(s.strip() for s in body.split('\n'))
@@ -33,7 +32,7 @@ for _, d in data.items():
     rants.append(d)
 
 bodies = [b for b in rants]
-initial_context = ["Am","I", "stupid?"]
+initial_context = ["Am", "I", "stupid?", "\n"]
 generator = generate_tokens(freq_table, initial_context)
 text = tokenizer.untokenize(generator)
 print(text)
