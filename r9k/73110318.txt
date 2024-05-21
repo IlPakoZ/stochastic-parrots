@@ -1,0 +1,46 @@
+-----
+--- 73110318
+I actually don't know how to cope. Revanced doesn't work on armv7 android devices which happens to be my shit tier phone.I've spent the last 3 years falling asleep everyday with vanced playing documentaries on my phone underneath my pillow. I can only do this with either vanced or youtube preimum because they decided to put the ability of playing audio with the screen off behind the paywall. I tried one night of sleeping without this setup and I did not sleep a single wink (still operating on no sleep a day later)
+
+So either I need to spend $500 shekels to get a new phone to do revanced or pay the YouTube premium like a goyim.
+
+Its over
+--- 73110328
+>>73110318 (OP)
+Did you try newpipe? That's what I use
+--- 73110351
+>>73110318 (OP)
+>they decided to put the ability of playing audio with the screen off behind the paywall
+I bet if you root your phone you could disable that, like how you can disable an apps ability to prevent you from taking a screenshot. I dunno what the specific setting would be, so maybe go ask >>>/g/ if it's even possible.
+--- 73110354
+>>73110318 (OP)
+Firefox with add-ons for background play and ad/sponsor block
+It's all we have left.
+--- 73110389
+you can use brave or another browser for a lazy workaround. allows you to play it in the background with your phone locked. skips most ads with just the default brave browser adblocker. used that when vanced finally died on mine, and I didn't spend the time to look into alternatives. fine for the purpose you intend.
+
+you maybe able to find some revanced install that works on armv7, but I will assume you've already tried a bunch. other apps/installs like newpipe that i have little experience with.
+--- 73110393
+>>73110354
+>>73110328
+No..literally just use newpipe. It's open source version of youtubevanced and in my experience is better.
+--- 73110457
+>>73110328
+>>73110393
+Newpipe works but its very barebones. I guess I shouldn't complain but not being able to have my youtube account content as easily accessible is going to be a hurdle
+
+>>73110354
+>>73110389
+Browsers do but its very shitty to browse. Can't look for videos like I could before, going to have to plan out what I want to listen to in advance using either browser or newpipe. I just wish Youtube wasn't so fucking jewish that they killed vanced
+--- 73110460
+Just use Newpipe? Also damn, getting into hard outdated hardware problems? I love my 2013 Nexus 7, still does everything I need, but yeah.... 2013 kek
+--- 73110473
+>>73110457
+Use Bromite, I'm using it on this tablet >>73110460 It is very lightweight
+--- 73110641
+These other options work but its not the same. I hate capitalists trying to monetize everything
+--- 73110932
+>>73110318 (OP)
+Try libretube, unlike newpipe it still gets updates. You can find it f-droid
+
+https://f-droid.org/en/packages/com.github.libretube/

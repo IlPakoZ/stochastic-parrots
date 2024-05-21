@@ -1,0 +1,17 @@
+-----
+--- 73186808
+I am in desperate need for work and decided to apply for a job at 7-11. When clicking the link to apply on the company site this is what I got. Not allowed to leave the page. Reloaded and it was normal. Copied and pasted into google translate and reads
+
+"The company itself is a very successful company. Troubles as if pardoned and pain eased? By the very reason of the present, we can desire the smallest thing, when the matter, free, great, no times forsake the wise, I will never open them.
+
+With pleasure in softening the laborious, the smallest consequences are the harshest, let the times here flee the debts of the praisers. He flees, I will just explain that he is looking for them, and when our trouble is the slightest thing, it is spurned to follow him, there is no great one."
+
+Also looking further into the source found some weird phrases in the code. Does anyone know what this is?
+--- 73186812
+bro triggered the 7-11 demon
+--- 73186817
+>>73186808 (OP)
+Lorum ipsum? Lmao the pajeet company 7/11 hired to make their site is gonna have a bad meeting with corporate
+--- 73186819
+>>73186808 (OP)
+lorem ipsum etc is placeholder text, used to show what the actual text will look like on something. Can't imagine why you got a pop up with placeholder text, maybe someone forgot to change it out?

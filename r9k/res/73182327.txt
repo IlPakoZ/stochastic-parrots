@@ -1,0 +1,5 @@
+<comment>
+I hate them. Hate them all!
+<comment>
+`
+giveitem qcrystal_9_2 2

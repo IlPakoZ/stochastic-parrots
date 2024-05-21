@@ -1,0 +1,4 @@
+<comment>
+Error: You seem to have mistyped the CAPTCHA. Please try again.
+ok
+Error: You must wait 4 minutes 1 second before posting a duplicate reply.

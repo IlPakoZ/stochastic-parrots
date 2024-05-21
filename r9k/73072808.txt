@@ -1,0 +1,135 @@
+-----
+--- 73072808
+My /r9k/ trans gf says the answer is 999 but I think it's 564. Can any mathnons help us out here?
+--- 73072830
+>>73072808 (OP)
+>My /r9k/ trans gf
+LOL
+LMAO
+--- 73072839
+Shut up retard-san, nobody cares.
+>Sage
+--- 73072854
+>>73072830
+>>73072839
+Please help us she's been really angry about this and burst into tears. I love her so much and I need a mathanon to save us PLEASE!
+--- 73072858
+>>73072808 (OP)
+Ask chatGPT to give you the answer
+--- 73072874
+>>73072808 (OP)
+Wish I was smart :( 
+
+Is adderal my only chance
+--- 73072888
+>>73072808 (OP)
+there are none btw if anyone actually actually cares.
+--- 73072908
+>>73072888
+3 is one of the 564 possibilites where it's an integer dumbass.
+1/(2*floor(sqrt(1)+1) = 1/3
+1/(2*floor(sqrt(2)+1) = 1/3
+1/(2*floor(sqrt(3)+1) = 1/3
+1/3 + 1/3 + 1/3 = 1 is an integer
+--- 73072923
+>>73072888
+Here's another one of them.
+--- 73072926
+squrt(1) floor is 1
+sqrt(2) floor is 1
+sqrt(3) floor is 1
+sqrt(4) floor is 2
+therefore 1/(2*1+1) => 1/3 until n = 4
+1/3 + 1/3 + 1/3 is the first integer at n = 3
+sqrt(n) floor after n = 3 is 2 until n = 9 
+1/(2*2+1) => 1/5 
+1/5 + 1/5 + 1/5 + 1/5 + 1/5 is the next integer at n = 8
+if u do more work u will find the next integer at n = 15 (see what the pattern is??? just before perfect square 4*4 there exist 3 integers) 
+Therefore all you need to do is sqrt(1000000)-1 to get the answer which is 999
+I tried explaining how simple it is to him but he keeps saying "no you are wrong I did it in python"
+--- 73073112
+>>73072926
+also he has no justification for his answer other than that he did it in python, I did mine in c++ and got my answer that I justified here(999). I told him that python can be bad for stuff where you add a million small numbers, but he keeps insisting that I'm wrong and he's right(btw he's lying when he says I am crying, I am actually quite calm and he's a bit upset over this ordeal)
+--- 73073220
+>>73072908
+>>73072923
+i thought the floor was brackets.
+--- 73073271
+>>73073220
+>>73072926
+>>73073112
+I'm sorry. You're right. I'm stupid and you should sit on my face with a diaper as punishment for me.
+>>73073220
+It explains it in the image. Brackets in path are like big parenthesis and it doesn't make sense there.
+--- 73073492
+>>73073271
+It's okay, I forgive you, even though you were being really upset over this whole ordeal. But from now on I shall be known as "smart-sama" on this board. I think it's only just after all the insults I receive.
+--- 73073654
+>>73072926
+It looks right. It is prob is. Although, I've taken a short glance at it and have not actually looked at it with much effort. It just emulates a series-type problem quite well.
+--- 73074035
+>>73072808 (OP)
+bumping this thread so it doesn't disappear while i solve it-- almost done i figured out the insight of the proof give me a few mins. haven't looked at any other responses will do after my proof is completed.
+--- 73074208
+>>73074035
+it is taking me longer to formalize the proof, but essentially the proof strategy is:
+
+let A = [2*floor(sqrt(n)) + 1]
+
+realize that 1/A is generated in the sequence (and therefore summed) exactly A times before A is incremented to the next value via the floor operation. so basically there is 1 integer valued sum for every integer raised to its own power prior to 1000000. so the number should be 1000 I think, because sqrt(1,000,000) is 1000. maybe 999 like your trans gf said because of off by one, haven't gotten there yet.
+--- 73074245
+>>73074208
+oh duh n is less than, not including 1000000. so your trans gf is right. still working on a formalization.
+--- 73074418
+Isn't this just asking how many square numbers are between 1 and 1,000,000? Because at every square number you'll reach a whole fraction. Such as 3/3, 5/5, 7/7, 9/9...
+
+There are 999 square roots under 1 million so your bf is correct.
+--- 73074462
+>>73072808 (OP)
+>>73074245
+ok, attached is the proof that there is an integer value of this summation for every perfect square. essentially when n=(m-1) where m is a perfect square m=(4, 9, 16, 25,...) and thus n=(3, 8, 15, 24,...) then the sum is an integer value.
+
+this proceeds via a (sloppily formatted...) proof via induction.
+
+next i need a formalization that there are no n between each of the earlier listed values that yields an integer value, but this proof already establishes that there are AT LEAST 999 integer values for all n between 1 and 1000000.
+
+999 IS the correct answer, but i'm probably not going to formalize this next part because it's 2am and i'm tired.
+
+thanks for posting a fun problem! is this a putnam problem? i took it this past december, ended up getting a fucking 1/120. hopefully will do better this year.
+--- 73074498
+>>73073112
+>>73073271
+>>73073492
+>>73073654
+you retards need to stop coding to solve problems like these. you clearly aren't supposed to brute force it. learn to do proofs, look what i did here: >>73074462
+
+you will become much better at programming if you have a rigorous understanding of the mathematical formalism that serves at the foundation of computer science.
+
+>>73074418
+yes, see my (incomplete but basically finished) proof
+--- 73074626
+>>73074462
+also before i go to bed, quick proof strategy for proving that the n = (m-1) where m is a perfect square are the only values that cause the sum to be an integer:
+
+construct a set, say B where B is simply every positive integer n that Sn is an integer value.
+
+then for all natural numbers x, [(x+1)^2]-1 is a member of B since we have already proven that A is the set of all natural numbers.
+
+so then construct any integer k such that [x^2]-1 &lt;= k &lt; [(x+1)^2]-1. from here you can simply construct another break apart of the corresponding Sk where Sk = m + [corresponding sum terminating at k], and show that the corresponding sum is NOT an integer value, meaning that Sk cannot be an integer value.
+
+then for the bow on top you'd just show that if you take the subset of B with every member less than 1000000, that the subset in question has 999 members. simple when you equate the earlier expression of an arbitrary member of B in terms of X with the max value of 999999, relating it to the earlier A.
+--- 73074824
+>>73074498
+It's a 4chan post.
+I am doing homework.
+Some things really don't need a proof explanation. 
+You can definitely throw out proofs for every single question under the sun. 
+But you don't. Because you really don't have to. 
+It took you far longer to formalize a proof when brute forcing revealed a pattern in less than 5 minutes for most.
+
+I agree that when it comes to most higher-level mathematics, proofs becomes much more crucial and important. But this is literally a series problem. Sperging over this is nonsensical.
+--- 73075718
+>>73074498
+He challenged me to solve it earlier smug that he had the correct answer, I was going to find it analytically but he insisted that he "found" the """correct answer""" using python (he got 564), so I found the correct answer by coding (999). I only justified my answer shortly afterwards using this logic here >>73072926 but he kept insisting I was wrong for some reason and he kept getting frustrated over it(basically the opposite of what he claims, I never got upset or cried over it).
+Also it surprised me because I'm majoring in CS and he is in math....(well statistics but same thing) so if anything the roles should be reversed
+also he posting on sci >>>>/sci/15389300 and posted here when he got no replies

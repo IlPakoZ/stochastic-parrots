@@ -1,0 +1,4 @@
+<comment>
+Evil must be defeated.
+<comment>
+Change begins with yourself.
