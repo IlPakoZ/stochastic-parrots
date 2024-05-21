@@ -1,0 +1,14 @@
+<comment>
+aIbert fish
+<comment>
+/[A-Za-z]I[a-z]+/;op:only
+<comment>
+Albert Human
+<comment>
+Ok, why I care?
+<comment>
+what a jerk this guy
+<comment>
+A real rude fella, I gotta say.
+<comment>
+was children your favorite dish

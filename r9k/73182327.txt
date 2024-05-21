@@ -1,0 +1,6 @@
+-----
+--- 73182327
+I hate them. Hate them all!
+--- 73182602
+`
+giveitem qcrystal_9_2 2

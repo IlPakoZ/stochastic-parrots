@@ -1,0 +1,7 @@
+<comment>
+Do you like memecam.io?
+<comment>
+memecam.io
+What is it
+<comment>
+A site where you upload an image and it generates some meme text related to it via AI.

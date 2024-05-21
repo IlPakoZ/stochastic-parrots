@@ -1,0 +1,21 @@
+-----
+--- 73038458
+aIbert fish
+--- 73038495
+>>73038458 (OP)
+/[A-Za-z]I[a-z]+/;op:only
+--- 73038624
+>>73038458 (OP)
+Albert Human
+--- 73038629
+>>73038458 (OP)
+Ok, why I care?
+--- 73038735
+>>73038458 (OP)
+what a jerk this guy
+--- 73038739
+>>73038735
+A real rude fella, I gotta say.
+--- 73039360
+>>73038458 (OP)
+was children your favorite dish

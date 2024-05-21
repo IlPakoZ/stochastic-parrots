@@ -1,0 +1,6 @@
+-----
+--- 73106411
+Aging process starts at 20
+--- 73106421
+>>73106411 (OP)
+incorrect, aging process starts at 0

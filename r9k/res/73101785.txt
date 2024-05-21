@@ -1,0 +1,28 @@
+<comment>
+the adventure party is leaving the village and (YOU) are the newest member
+Whats your build?
+<comment>
+Strength+ultra greatsword
+<comment>
+Blind monk
+<comment>
+Combine operator
+<comment>
+Warrior with relatively-but-not-comically-oversized sword. Basically a lesser tank.
+<comment>
+ranged crossbowman
+<comment>
+I am the fighter with a persuasion perk I can use on NPCs
+<comment>
+Hype Man. I'll cheer you on, but I'm not gonna play a lute or some shit like that, I'm no Bard.
+<comment>
+Berserker you mean?
+<comment>
+No, more like a knight build. Strong but still tanky.
+<comment>
+Sorcerer. High charisma and spellcasting without hitting the books.
+<comment>
+Magic
+Mainly support, buffs and healing.
+<comment>
+Ranger with a high specification into hunting, gathering and cooking

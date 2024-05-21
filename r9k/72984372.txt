@@ -1,0 +1,51 @@
+-----
+--- 72984372
+why wont this forum die?
+
+it is full of retards and porn. the jannies are just retards that ban any thread at will for no reason. it shows all the signs of a dead forum. 
+
+does anyone even run this site anymore?
+--- 72984398
+>>72984372 (OP)
+Just use a shit-ton of filters. It won't fully de-crapify everything but it'll at least make it a bit more bearable.
+--- 72984425
+>>72984398
+yeah then you're filtering like 90 threads lol. I had filters but took them off because the board would be dead if I had them on.
+--- 72984467
+>>72984372 (OP)
+R9k has never been better, it's objectively great
+--- 72984626
+>>72984467
+hiro literally destroyed this place. i hope he gets stabbed to death in paris.
+--- 72984638
+bloody bastard bitch crybaby like the terence, do not revert to me
+--- 72984690
+It's filter reset day, so it's time to filter 100 threads in three lines of regex.
+
+/(why|what|would you)[^\n]*$|^[^\n]+\?[^\n]*$|^>[^\n]+$/i;op:only
+/wom[ae]n|girl|[bg]f|incel|dick|pussy/i;op:only
+/mbti|gay|britfeel/i;op:only
+--- 72984741
+>>72984372 (OP)
+As a retard that posts porn I am offended
+--- 72984791
+It's supposed to be retarded and suck. That is its charm
+--- 72985286
+>>72984791
+i agree. why do people complain about the quality of this board when its frequent shittiness and rare high quality post is its charm
+--- 72985317
+>>72984372 (OP)
+>forum
+You need to go back.
+--- 72985707
+>>72984372 (OP)
+What era of /r9k/ would we call this?
+
+The normie r/teenager invasion? The /pol/ fallout? The slow death march to irrelevance?
+
+I'd rather it just be taken down than keep descending deeper into normalnigger filth. In a year or two you won't be able to tell this place apart from /b/.
+--- 72986891
+>>72984372 (OP)
+follow this guy
+username: "Filter Guy"
+or just leet

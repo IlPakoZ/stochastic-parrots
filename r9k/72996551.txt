@@ -1,0 +1,92 @@
+-----
+--- 72996551
+Post any art/hobbies/creations that you have made or are working on.
+
+Show us what you've got.
+--- 72996618
+https://vocaroo.com/1lwcbTZRkXFz
+
+wish i still had my old hard drive. i haven't made music in a long time, but it'd at least be nice to just have more variety to the small things i made that i listen to sometimes.
+also wish i still had my guitar and keyboard. i never really got good at either, but it was nice improvising over music or learning to play music i made and see whether it could actually be played on the instrument i wrote it for
+--- 72996619
+>>72996551 (OP)
+I started working on this for this year's Homestuck day, I still haven't finished it though and that was 4 days ago.
+--- 72996890
+Fuck it- I'll post. 
+I said I would share our work in a previous creative thread.
+I partnered up with another musician after meeting on SoundCloud. He has a backlog of demos and wanted me to do vocals for a new project. We haven't settled on a name yet, but he sent me 3 instrumentals to work with so far. 
+This is the first demo track, called Unlawful Detainer.
+My partner did all the instrumentals and I did the vocals.
+
+https://on.soundcloud.com/wHFZW
+
+I'm slowly working on the next two tracks. We're planning on putting together at least 10 tracks (minimum) for a demo. He has a friend that does mixing/mastering for fairly cheap.
+I'm pretty curious for thoughts on this first track. 
+Of course- this is a demo, so it's not by any means finalized in sound quality.
+
+Just happy to be creating jams.
+--- 72996989
+>>72996551 (OP)
+I finally got 20 likes on my video so I guess that means I'll make a sequel.
+--- 72997382
+>>72996551 (OP)
+I can't show you pictures but I'm painting a custom design onto a boat.
+It's a seahorse that spans the whole front of the boat.
+I'm kinda out of my depth here, the guy heard through a family member that I "do art"(I usually use pen and paper to doodle and sketch) but somehow that was qualifications enough to put me in charge of a 10m squared decal job with specialty marine paint I've never used before.
+I have just been generating seahorse compoments on midjouney and projecting them onto the hull, tying to parts together with artistic pattern regurgitation.
+We haven't even agreed on payment or anything, he's just payed my gas money and supply costs so far, with a promise of a payment at the end for my work.
+Sorry if this seems like a maggive log of a vent, I just don't have many people to be real with.
+--- 72997424
+>>72996551 (OP)
+Just some dumb stuff I've been working on
+https://voca.ro/15MQq1gg8LsL
+https://voca.ro/1oR5ua7NUNyM
+The second ones rough as it's a bit improvised
+--- 72997578
+>>72997382
+I really hope you get paid and well for this bs.
+--- 72997601
+>>72996989
+you don't sound exactly happy about itl
+--- 72997629
+>>72996551 (OP)
+I made something like that while ago
+--- 72997664
+>>72997601
+Meh kinda indifferent
+I said I'll make a follow up if I got 20 likes and I got 20 likes. It took a while tho
+--- 72997711
+>>72997664
+Isn't it a hobby or do you plan on blowing up?
+--- 72997727
+>>72997711
+Building in minecraft is a small hobby for me. I don't plan nor expect to blow up. I'm very bad at social media.
+--- 72997772
+I made top gear basedjaks some time ago.
+--- 72997828
+>>72996619
+iss good
+--- 72997840
+>>72996619
+Should I become part of this dumb fandom?
+--- 72998196
+>>72997840
+I don't really like the fandom, it's not as big as it was back in the day, and for some reason the fanbase keeps getting younger (or maybe I'm also getting older). Still, the fandom was flooded with teenagers first back in 2010 (around the start of Act 5), and that really affected the tone of the story, sadly. Homestuck's a tale of wasted potential.
+Here's a draw-this-again-meme I made back in January.
+--- 72998223
+Don't have any pics since I'm at work, but I've been slowly working on my latest batch of warhammer 40k models. In fact: I plan on finishing some of them off while doing my midnight shifts.
+--- 72998670
+>>72998223
+What army and what units?
+--- 72998772
+>I made a dumb age calculator in python
+>its my first program refined it a little bit
+>this is v3
+name = input("what is your name? ")
+print (name)
+yearborn = input("what year were you born")
+age= 2023 - int(yearborn)
+print(f"{name}, you are {age} years old")
+--- 72999074
+>>72998670
+Currently working on some imperial knights. I got the chainbreaker box during the sale so I have 3 more armigers and the big knight to finish.
