@@ -21,6 +21,7 @@ dir = "../r9k/res/"
 # ------- Preprocessing here ----------
 
 # -------------------------------------
+
 def load_dataset():
     freq_table = defaultdict(list)
 
@@ -46,9 +47,19 @@ for _, d in data.items():
     rants.append(d)
 """
 freq_table = load_dataset()
-
-
 initial_context = ["How", "are", "you?"]
+
+# ------- FOR DEMO -------
+possible_starts = []
+
+for k,v in freq_table.items():
+    if k[0][:10] == "<comment>":
+        possible_starts.append(k)
+    
+initial_context = list(random.choice(possible_starts))
+# --------------
+
+
 generator = generate_tokens(freq_table, initial_context[-context_length:])
 text = tokenizer.untokenize(generator)
 print(text)
