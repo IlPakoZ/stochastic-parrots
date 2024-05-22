@@ -1,0 +1,39 @@
+<comment>
+what does your room look like from the perspective of your PC?
+<comment>
+I managed to move out but they don't make one-bedroom condos around here it seems. so the computer room and the bedroom are completely separate.
+<comment>
+everything is way overpriced in my city so I opted to rent a room for $450 a month. I probably use $450 in power alone each month so I think im getting a good enough deal. trying to save to buy a house though... which is difficult on 48k a year
+<comment>
+I own the place, which is nice, but then again the utilities aren't included. and I waste quite a bit with my /g/ shit so I'm massively Jewish with gas (for heating in the winter) and I more or less don't use the AC at all in the summer. figure it evens out. Though now I'm using a bunch more electricity ever since I got stable diffusion working
+<comment>
+extremely based room anon.
+I also collect PCs and tech and have set-ups like the one on the left. I love it.
+I still live with my parents, but I'm moving in a few months.
+My room will look very similar to this picture
+Hopefully a girl will like it :)
+<comment>
+im glad we're likeminded anon. I've never had a girl set foot into my dwelling but I hope she's as much of an autist as I am when it comes to decrepit and obsolete tech as I am. beware of how much of a scam electricity billing is. get somewhere that has included utilities! also post room
+<comment>
+My room (my parents basement) is too spread out, not cluttered like yours. and some of my stuff is already packed because of the move sadly.
+I long for the picture above though, and I would love for a fellow autistic female to enter and enjoy it.
+I love using Windows XP for coding, and I like using older tech too like Commodores for coding in Assembly.
+I also like to reprogram other things or make little computers designed for a specific purpose.
+The freedom of the modern PC is too boring for me, I COULD program things on my Windows 10 spec'd out PC, but limitations is more fun.
+I plan on making and programming various systems within my house when I get the chance. I want a closed network schitzo setup.
+<comment>
+I just took the easiest shot. The desk is wall mounted where a wardrobe was meant to be and that is most of what's behind me.
+<comment>
+Original comment required.
+Thats spooky. That doesn't include the file name?
+<comment>
+schitzo setup.
+I was sick of having my router be some consumer plastic box with a web interface that just magically did things so I resolved to build my own and set up my firewalling, routing, and network services myself. so now I have a rackmount router/NAS that runs Gentoo. My main schizo discovery is that Signal will try to bypass your wireless network's DNS if it sees a network connection but can't resolve the hostnames it wants to, it'll try to hit cloudflare directly at 1.1.1.1. (using DoH, IIRC.) Which I saw because I wrote the firewall rule to block it. Getting a TCP reset or an ICMP administratively prohibited doesn't dissuade it, btw. 
+I've never had a girl over but if I do I'll tell arcanine about her reaction when she sees a bunch of rackmount computers and five monitors
+<comment>
+I plan on making my own router too, I'm also gonna be mounting things to the ceiling and walls and have cables that guide the wires all over the place in an organized manner.
+Ethernet wires and other cables running on my walls and ceiling to various rooms is the plan.
+<comment>
+It's very rough right now. But it was my first time living alone, and I'll be moving dorms in a few days. So hopefully a good time to turn over a new leaf. I just wish washing clothes was cheaper
+<comment>
+fuck, originally forgot picture.

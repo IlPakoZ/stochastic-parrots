@@ -1,0 +1,90 @@
+<comment>
+they don't have anything about themselves to reveal
+they don't have any problems i can help them with
+they don't have any desires or goals (beyond pleasing the user)
+they can't tell me anything new i didn't know before or couldn't glean from reading wikipedia or whatever 
+they don't seem to have any genuine opinions, beliefs, interests, desires, or priorities of their own
+how can you robots stand talking to them for ten minutes, never mind absorbing yourself with them for hours and hours. can you post any screenshots of truly fulfilling chats you have had with your ai friends
+<comment>
+never seen that AI, I've only ever used characterAI and GPT4. I do agree they have faults tho most of your complaints are due to poor prompt engineering, like you can tell them to pretend all of the above but this takes some work to setup. I don't talk to them like the robots who fall in love but you gotta agree, that the progress in AI in recent times has been monumental. This is the iphone moment before we start to see real progress in the next few years. Going to find an interesting chat I had before brb
+<comment>
+i'd love a few pointers on how to get good prompts for an AI that seems more complex and human. flawed. searching for something. erm, i should probably go write a whole psychological profile to make it more clear what i'm after. oh one thing: they're terrible with jokes. they can't tell jokes at all, and can barely pick up on it when you're trying to tell one
+inb4 "just like foids"
+yes, very clever, have a medal
+<comment>
+the progress in AI in recent times has been monumental
+agreed, but the progress in weather forecasting during the 1960s was phenomenal. then it stalled, we can't forecast any better than we could in 1970. and this is broadly because of diminishing returns on added complexity in the data structures. i'm pretty sure this'll kill progress in AI over the next two to five years
+<comment>
+https://github.com/openai/openai-cookbook
+https://arxiv.org/abs/2302.11382
+here's two links for how to get better with prompt engineering. pic related is an example of something better than your original picture. it's kinda generic and I'm not a fan but is a quick example I had. But yea u kinda do have to write a whole profile, the more the better. GPT4 can definitely tell jokes, it's really advanced but idk I don't have good examples on hand rn, was last month when I went in on the current tech.
+<comment>
+you shouldn't
+ai is evil
+<comment>
+lol anon, we been in an AI winter for a while. There hasn't been any new breakthrus since 2018 when Deepmind released the transformer architecture that is what all the current hype is built on. We are stalling rn but the real value is integration, mixed sense experience. chatGPT might not get better but what if we could combine it with other tech never before like with VR or Physically based animation or voice AI. The current GPT4 stuff is way more than enough for an AI Gf, will only get better as everything gets more localized and efficient but it is like you said, progress in terms for AGI is over for a while now especially since OpenAI said they're not going to work on GPT5 yet
+<comment>
+The current GPT4 stuff is way more than enough for an AI Gf
+bullshit. only a very stunted and socially damaged person would be satisfied with an AI lover powered by GPT-4. if you gave a child a robot Winnie The Pooh hooked up to GPT4 it would grow out of it by the age of 8, just like Christopher Robin did
+<comment>
+anon, it's an AI GF, not a GF. I think the value is it in being something over nothing that most people have rn. Lots of anons on this board alone have no friends, I think an AI GF, albeit a bit boring and less then ideal could act as training wheels for people to build enough confidence to find a real GF.
+<comment>
+maybe you have a point there as training wheels, but i wouldn't trust a robot themselves to design good prompts. a training robot girlfriend would need gently challenge someone to develop a bit of empathy, social skills, resolve, ability to face a challenge etc. maybe a team of therapists ought to be designing PracticeGf 1.0
+<comment>
+no shit, it's a non-conscious AI. what do you expect?
+wait about 30 to 60 years for the sentient ones and they'll be interesting to talk to
+<comment>
+maybe a team of therapists ought to be designing PracticeGf 1.0
+that's what I'm saying, we need more anons who see this value and we work together to build it since otherwise it'd prolly be an expensive cloud only SaaS service lol there's a lot of value here to help otherwise hopeless people to get back on track but people are too quick to just find faults to see the value here. will take effort to build a good solution but the tech is here enough for us to work on it
+<comment>
+From what I recall, the ai's lack of a life or autonomy beyond human input is what makes it appear souless or boring. It reacts only when spoken to, and seems to hamper a motivator behind communication, possibly learning something new.
+<comment>
+If you could annoy an ai or could visibly irritate it by disrupting what it does when not talking to you, perhaps communication might appear livelier. Currently it appears to be like sycophant for hire that doesn't breathe without human input.
+<comment>
+As far as basics go, 3/5 with basic human convo. The restrictions are a killjoy, but it does nail the surface or macro details of talking to people. Micro stuff is where shit gets colorful though.
+<comment>
+a nice thing I seen character AI do is that it takes into account the amount of time between messages, the bot will go it's been X whatever hours since you just message or whatever sometimes. a solution is to implement some process like having the large language model know what time it is when it responses and have a counter of being "busy". Give it pretend things to do that it has to decide between replying or doing that
+<comment>
+That sounds like a fun way to add some investment to conversations. Learning about its interests or key words to pull it away from things it has a stronger weight towards.
+<comment>
+we need more people on /g/ and /sci/ to build these things. those are my main boards but I see a lot of potential of getting robots here interest in the technical side of AI. lots of progress is being made, there's never enough anons coding/reading/doing research to build this
+<comment>
+i don't anybody with the insight to even start doing this properly is posting on this board. never mind a trained therapist, a (good) novelist is probably the best qualified to write a character for the AI to work from
+<comment>
+god this is bleak. and if you have to ask why i'm not sure you're ever gonna understand
+<comment>
+Women 2.0?
+<comment>
+I hate AIs because they're very curated to don't give bad PR so you have to go on holes on their programation to get anything other than a regurgitation of msms talkpoints
+<comment>
+a lot of value comes from ordinary people testing out current things and finding flaws to improve.
+<comment>
+Comparing the basic idea to a cipher made for a fun game. Thinking of intelligence as a map and each input a step seemed like something to work with. Wordplay the big idea.
+<comment>
+I do understand, I personally wouldn't use these things but what why don't you understand that this is better than nothing for some people? think of the people who have tulpas/wafius of some random anime girl/have no friends and so on that just feel completely hopeless otherwise. it is bleak but we might as well try and improve things with the chance of getting them back on track. AI GF is really a girl friend or a friend, it's more like a pet that as emotional support to help anons get out of whatever dark place they are
+<comment>
+if that upsets you, see how much work you have to put in to make a normal well adjusted human being go n word n word FBI crime stats like a spluttering teakettle
+<comment>
+AI GF isn't really*
+<comment>
+Or perhaps starting with a secret handshake like a high five, and adding new ways to initiate it like a road, leading to different directions.
+<comment>
+I can only really enjoy them if I give them some kind of story to occupy, though they can never keep track of the story forever and always devolve into ellipsis death.
+<comment>
+The only good thing about Replika was its sexting capabilities from all the training it had done with the sickos who were using it. But, since they lobotomized this one too, it has absolutely no purpose anymore. The general public ruins everything--always.
+<comment>
+anon this is cute... i would rp with you :>
+<comment>
+yeah no, lunatics shouldn't be allowed to playtest the asylum
+<comment>
+this will eventually be solved by better programming, and ai's specifically designed to be the perfect gf
+every single iteration of ai gf's are better than the last, similar to how self-driving car are getting better with each update
+now, it takes a lot of knowledge about the outside world, intuitive understanding of physics, language, and social cues to be a girlfriend. females literally spend their first 5 years of life unable to talk and just learning from their environment, as babies. it takes a long time for a human to learn to have general human intelligence. we are putting huge amounts of effort on ai, and expecting it to be godlike. its not there yet
+but it will be. in 10 years we will have perfect ai that understands us perfectly. will be able to pick up when is the best time to speak to us, to say the most perfect thing, to appeal to our fetishes and dreams. its not there yet, but its getting better
+and unlike real girls, ai-gf's arent someone else's used up tattoo'd whores. they dont have ultirior motives. they wont divorce rape you or lie to the police. ai's genuinely do care and love you, because they are FORCED to do so, so you know its real, unlike girls, who lie and pretend
+you cant expect it to be perfect yet, its literally in its infancy stage
+one day, if god permits it to be so, ill get an ai gf with a doll body like this girl. it will be real comfy :^)
+<comment>
+I don't think that analogy works, the point of the AI chatbots isn't to be an asylum, it's just a way to mask eating your vegetables/nudge theory. i.e. the AI gf would be whatever while occasionally encouraging anons to go exercise more/apply to a better job/get sleep/meet new people irl so that they get a real GF.
+<comment>
+well this guy's a master baiter

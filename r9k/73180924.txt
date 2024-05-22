@@ -1,0 +1,18 @@
+-----
+--- 73180924
+Coding is great for inkwells, let's learn
+Python function, we can add parameters later
+Reply with the next line
+def doRobo():
+--- 73180944
+return None
+--- 73181023
+two=3
+two_plus_two=two+two
+print(two_plus_two)
+--- 73181030
+>>73180924 (OP)
+Coding is for ai. Away with you, soulless automaton
+--- 73181132
+>>73180944
+This is why we're here forever

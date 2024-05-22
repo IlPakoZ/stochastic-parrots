@@ -1,0 +1,17 @@
+<comment>
+you are a traveling wizard looking to make coin and to get your name out there
+you travel from town to town trying your luck with your services but you mostly get weirded out looks. 
+One day while marching through the streets of a small town, a young boy approaches you 
+he wants you to create a balloon with magic. 
+It isn't much but maybe putting a smile on a kids face is what you need
+Your move
+<comment>
+i tell him i will create a balloon if he tells me about the town and of anything out of the ordinary that's happened lately
+<comment>
+why am i a birthday clown for hire instead of a healer, necromancer or vampire hunter?
+<comment>
+The boy takes a few moments to think, he then starts you dead in the eye and says
+"The commander of the guards makes people disappear.."
+You look in suprise at him and he blankly stares back until he reaches lut with his hands. 
+"Balloon now!"
+Lady luck has not been so kind to you recently

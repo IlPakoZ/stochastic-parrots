@@ -1,0 +1,68 @@
+-----
+--- 73103271
+how do i create a new partition for my /home files on debian? basically i want everything aside from the OS on a seperate partition
+
+can someone lead me through the process
+--- 73103305
+>>73103271 (OP)
+Why are you asking /r9k/, go to /g/
+--- 73103367
+>>73103305
+>Why are you asking /r9k/, go to /g/
+this is my home
+--- 73103385
+>>73103271 (OP)
+First, check the available disks and their partitions using the lsblk command in the terminal. This will show you a list of all the disks and partitions on your system.
+
+Decide which disk you want to use for your new partition. Make sure it has enough free space to accommodate your /home files.
+
+Next, use the fdisk or parted command to create a new partition on the chosen disk. For example, if you want to create a new partition on /dev/sda, you can use the following command:
+
+
+sudo parted /dev/sda mkpart primary ext4 0% 100%
+
+
+This will create a new primary partition on the disk with the file system type "ext4" that spans the entire disk.
+
+Once the partition is created, you need to format it with a file system. For example, to format the partition with the ext4 file system, you can use the following command:
+
+
+sudo mkfs.ext4 /dev/sdaX
+
+
+Replace "X" with the partition number you just created (e.g. /dev/sda1).
+
+Next, create a mount point for the new partition. For example, you can create a directory called /mnt/new_home:
+
+
+sudo mkdir /mnt/new_home
+
+
+Now, you can mount the new partition to the mount point you just created. For example, to mount the new partition /dev/sdaX to /mnt/new_home, you can use the following command:
+
+
+sudo mount /dev/sdaX /mnt/new_home
+
+
+Finally, you need to copy the contents of your existing /home directory to the new partition. You can do this with the rsync command:
+
+
+sudo rsync -av /home/ /mnt/new_home/
+
+
+This will copy all the files and directories from your existing /home directory to the new partition.
+
+Once the copying is complete, you can unmount the new partition and mount it to the /home directory. For example:
+
+
+sudo umount /mnt/new_home
+sudo mount /dev/sdaX /home
+
+
+To ensure that the new partition is mounted automatically at boot, add an entry to the /etc/fstab file. For example:
+
+
+/dev/sdaX /home ext4 defaults 0 2
+
+
+This will mount the new partition to /home with the ext4 file system and default options at boot.

@@ -1,0 +1,113 @@
+-----
+--- 73049601
+fellas. im 23 and a half. i feel like the past 23 years have been pretty much a waste
+
+no degree. no life. no girl. no job. no real skills. so much anxiety i can barely leave the house or talk to family. not much experience in life at all, at least a skill that would help me in life
+
+older anons. what should i do from here on out? any advice would be appreciated. i wouldnt say im at complete rock bottom but skill wise i am. i need some guidance. otherwise i will probably end up the same years from now
+--- 73049767
+>>73049601 (OP)
+Would you say you are depressed Anon? I don't know how to help you with picking up skills, because I too am 23 but I am attending uni, so I don't need to worry about that, but you mentioned the anxiety and not being able to go outside a lot, maybe I could help you a bit with that.
+--- 73050124
+>>73049767
+sometimes i am, i am sorta fifty fifty at being okay where im at and depression doesnt get to me that strongly like it did before
+
+either way any advice you might feel is valuable is greatly appreciated. im lost
+--- 73050166
+25 here
+
+Please do something other than video games. It is a time trap that leads to no where quickly.
+--- 73050242
+>>73050166
+i have started to realize that. video games arent very fun for me anymore. ive finally reached that true point, where it feels meaningless and im wasting my life. it is not a waste for everyone im sure, but for me it definitely is.
+
+but what should i be working on? im sorta dabbling in animation but not sure how it would go, but ill try it out
+--- 73050610
+I don't know about you guys sleep schedule but the first thing I did was fixing mine. How did I do it? Force myself to go to bed. I installed a program that locks me out of my computer after 22:00. If I try to get back in I immediately get logged off again.
+On top of that I try to get some sun light in the morning. 
+A job is very important for me as it forces me to keep my sleep schedule in line, allows for a bit of savings and socializing. If it weren't for my part time job I might as well lie down and rot.
+I'm 20 years old and learned to program when I was 17. This got me a part time job to finance my studies. University is a lot more expensive in the US so I wouldn't recommend blindly studying something you have no clue about but getting an internship in some small local company might just be the right opportunity to get a feel for what the job is going to be like + it looks good on a resume.
+Be sure to practice the stuff you're going to do at work before applying for an internship. I can only really give advice if someone is interested in programming. If you are, do it like this:
+Your top priority is learning the fundamentals. It doesn't matter with which language you start.
+Once you are fairly good at one, you can pick up a different language in a matter of weeks. There are some that'll make it harder and some that'll make it harder. A good starting point is JavaScript as you can easily build something that looks good with html + css and put it on GitHub pages. Create a GitHub account and put your projects on there if you ever wanted to show them to someone.
+Come up with a project idea. A crafting calculator for some game you're into, a basic calculator, a password generator or maybe a chess website.
+Start out as simple as possible. If you ever get stuck, ask chatgpt. Be sure to ask questions if you have any. These chat bots are amazing at teaching, but don't just copy paste. If you can afford it get chatgpt plus as gpt 4 is imo worth it.
+--- 73050871
+>>73050610
+NTA but I already have programming skills and have been a NEET for my entire life but I'm about to crack and get a retail job because I don't know how to get a CS job at this rate. How did you actually get the part time job? Did you look for internships on indeed or something? Would a local company actually not give a shit if I have no work experience or school at all?
+--- 73050900
+>>73050124
+I'm not a footfag but I have noticed that east asian women tend to have nice feet compated to other races. No weird toes or clubfeet or bunions. Why is that?
+--- 73050943
+>>73050900
+well this woman in particular is a kpop idol and most attractive ladies you see probably keep care of their parts. i can assure you there are nasty feets of any women really
+
+it all boils down to genetics and who shows off their feet. maybe east asians with nasty feet tend to hide it more than other races or just blessed with good genes
+--- 73050968
+>>73049601 (OP)
+Unironically study NDEs and realize that there actually is an afterlife and that we are eternal and will go to heaven unconditionally when we die, and get your spiritual outlook on life in order so that you know what matters and can work on that. And NDErs talk about how the meaning of life is to learn to love and be kind and thrive here despite how hard it is in this world. So how is it going anon?
+
+Here is a very persuasive argument for why NDEs are real:
+
+https://youtu.be/U00ibBGZp7o [Embed]
+
+It emphasizes that NDErs are representative of the population as a whole, and when people go deep into the NDE, they all become convinced. As this article points out:
+
+https://www.psychologytoday.com/us/blog/mysteries-consciousness/202204/does-afterlife-obviously-exist 
+
+>"Among those with the deepest experiences 100 percent came away agreeing with the statement, "An afterlife definitely exists"."
+
+Since NDErs are representative of the population as a whole, and they are all convinced, then 100% of the population become convinced that there is an afterlife when they have a sufficiently deep NDE themselves. When you dream and wake up, you realize that life is more real than your dreams. When you have an NDE, the same thing is happening, but on a higher level, as you immediately realize that life is the deep dream and the NDE world is the undeniably real world by comparison.
+
+Or as one person quoted in pic related summarized their NDE:
+
+>"As my soul left my body, I found myself floating in a swirling ocean of multi-colored light. At the end, I could see and feel an even brighter light pulling me toward it, and as it shined on me, I felt indescribable happiness. I remembered everything about eternity - knowing, that we had always existed, and that all of us are family. Then old friends and loved ones surrounded me, and I knew without a doubt I was home, and that I was so loved."
+
+Needless to say, even ultraskeptical neuroscientists are convinced by really deep NDEs.
+--- 73051791
+>>73050871
+I'm in Germany so the situation might be different in the US but there is a severe shortage of IT guys who know their shit, especially at small software shops.
+Go to local job fairs and talk to the people, build a small portfolio to showcase your skills and be ready to show them something if they're interested. Make sure you look presentable when you go there. I'd avoid the online stuff like indeed. Making a good in person impression is probably more productive than sending 100 applications on indeed. You may be able to bypass the however many interviews they have you do in the US if the boss likes you and you show some basic understanding of programming. In addition to that a lot of the small companies don't have a giant HR department that does these stupid leet code interviews.
+My company often goes to local job fairs and has stands there. A lot of the times the boss is there as well.
+These fairs are common at universities, especially the technical universities (idk if they have those in the US)
+Pay isn't anything to write home about as I'm still a student. 
+Back in the day we had to do a mandatory internship while I was in high school. It was a short two week thing (I don't even know if I got any pay for it) but this is how I got my foot in the door. 
+The only thing they are looking for when having interns in those small companies (around 10-20 employees) is if you know how to program. The languages I knew didn't matter a whole lot. They had me build a small android app during my internship. I am now working on CRM backend stuff. 
+It's crucial that you can figure stuff out on your own and display a willingness to learn.
+In terms of interviewing for junior positions/internships my company has people do some simple stuff on a white board. You should be able to reverse a string or do some simple algorithms.
+--- 73051860
+Build a skill, study for your GED or take a course for it and get into a trade school. Alternatively, double down. If you can live life on the internet completely care free by all means do it, it is modern enlightenment after all.
+--- 73051934
+hey, i'm 23 too! But i actually tried uni, dropped out 2 years ago and have been a neet ever since, idlying. 
+>no degree. no life. no girl. no job. no real skills
+yeah that's me, i'd add to that a total lack of friends and social life, i don't even have a discord account- cause for what?
+--- 73052026
+Not OP here but eerily similar situation.
+>>73050610
+>I don't know about you guys sleep schedule but the first thing I did was fixing mine. How did I do it? Force myself to go to bed. I installed a program that locks me out of my computer after 22:00. If I try to get back in I immediately get logged off again.
+I naturally fall asleep between 11 PM and midnight and wake up betwee 8 AM and 9 AM. I have to sleep 9 hours a day. If i don't, sooner or later i will become tired and unable to do anything meaningful, and fall sleep after dinner or, in extreme cases, sleep 12+ hours.
+Falling asleep sooner than 11 PM and waking up before 8 AM is very hard for me, it's just unnatural.
+>>73051860
+What skill? That's the issue. If i had any marketable talents and productive interests, i would have followed them long ago. But it seems i'm only interested in consuming media, learning about the world and fantasizing. I like cooking and gardening, but i'm bad at it, i've been doing it for years and it still takes me a lot more time than it takes others because my manual skills are terrible.
+--- 73052046
+Im 26 anon with a chad room mate, this evening I spent 2 hours eating Nutella and trying to be quiet because freeloading chad had fed his 3 hookups all the food we share for the weekend despite me mostly paying for it, so while he was giving it to his college whores I was in my cramped room eating fucking Nutella. On here. At 26
+
+Its fucking over
+--- 73052259
+>>73052046
+why the fuck would you share food with him, that's asking to get exploited
+--- 73052317
+>>73052026
+My sleep schedule fucked me over as I stayed up til 4 am and generally got too little sleep, but if you don't struggle with it that's awesome.
+A job has been helpful for me in terms of money and generally forcing me to talk to people.
+Remember, you don't have to become a rockstar. A simple job will still pay plenty of money for someone living alone. I am not a talented programmer. I struggle with figuring this shit out all the time. However I put in the legwork and didn't let my failures discourage me. When I first started to program I felt like the biggest idiot and nothing worked no matter how hard I tried.
+Maybe try something new or focus on getting better at gardening or cooking.
+If you don't have money problems you could figure out other areas in your life before finding something for work that is bearable for you.
+Career wise and sleep schedule wise I'm doing well but otherwise I'm stuck and can't really provide any valuable advice.
+I still struggle with loneliness and anxiety and haven't figured out what to do about it to be honest.
+I'm doing alright when I'm forced into a situation like doing a group project for uni but having to initiate a situation is impossibly daunting.
+Being in a social situation is mostly enjoyable for me. I'd like to give advice on how to get more social but nothing has really worked for me.
+My guess of what I need to do? Find a community and hangout with people. But that's a lot easier to say than to actually do. Maybe I should join some sports club or whatever. 
+I recently wandered around the city and felt extremely lonely. All the other people are hanging out with their friends and I'm the only retard walking around on my own. 
+My brother gave me this advice: you kinda know a few people from university, ask them if they want to grab a beer. 
+I am still afraid of that. I can't even send out a message on discord asking for something like that.

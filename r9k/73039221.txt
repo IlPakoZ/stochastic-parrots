@@ -1,0 +1,32 @@
+-----
+--- 73039221
+It's kinda sad that some of you are fun to talk to, but the board is always flooded by spam from retarded subhuman low iq schizos.
+--- 73039293
+>>73039221 (OP)
+The fun can't go on forever. Consider it a sign to fix your life and create a livable space for yourself
+--- 73039323
+>>73039293
+Very true. If anything these spam schizos are doing me a favor and urging me to move on from this shithole.
+--- 73039362
+>>73039221 (OP)
+So you're the faggot that sits around spamming about schizos and never contributing anything interesting. Are you a drag queen or something like you sound like you're going to turn prison gay and the only people who pretend to give a shit want you to dress up like a girl to pretend they want to stick their dick in you for some humiliating demeaning sex ritual.
+--- 73039379
+>>73039221 (OP)
+Is it that crazy for an imageboard to have an anti-spam policy?
+--- 73039392
+>>73039362
+tl;dr also kys ricecuck, I do post things other than spam
+--- 73039417
+>>73039392
+What the fuck is a ricecuck, you don't even have funny memes. Aren't you suppose to be in school or some place people tell you where to be and what to do?
+--- 73039437
+/(\b|^)(how|why|what|would you)[^\n]*$|^[^\n]+\?[^\n]*$|^>[^\n]+$|edition$/i;op:only
+/wom[ae]n|girl|f(em)?oid|[bg]f|fem.?(bo|cel|ale|anon)|pussy/i;op:only
+/incel|celibate|fag|crossdress|trann|dick|\bsiss[yi]|chastity/i;op:only
+/mbti|gay|shit|pepe|britfeel|manifesting/i;op:only
+/[A-Za-z]I[a-z]+/;op:only
+--- 73039454
+>>73039417
+hes just a angry whitecel chimping out at the ricecels for spamming the boards
+
+2 insecure incels chimping out at each other
