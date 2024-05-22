@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4Chanbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #chat-box {
+            width: 500px;
+            height: 400px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            overflow-y: scroll;
+        }
+        #user-input {
+            width: 400px;
+        }
+        #send-btn {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Get your daily dose of 4Chan!</h1>
+    <div id="chat-box"></div>
+    <input type="text" id="user-input" placeholder="Type a message...">
+    <button id="send-btn">Send</button>
+
+    <script>
+        document.getElementById("send-btn").onclick = function() {
+            var userInput = document.getElementById("user-input").value;
+            if (userInput.trim() !== "") {
+                addMessage("You", userInput);
+                fetch("/chat", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ message: userInput })
+                })
+                .then(response => response.json())
+                .then(data => addMessage("Chatbot", data.response))
+                .catch(error => console.error("Error:", error));
+                document.getElementById("user-input").value = "";
+            }
+        };
+
+        function addMessage(sender, message) {
+            var chatBox = document.getElementById("chat-box");
+            var messageElem = document.createElement("p");
+            messageElem.textContent = sender + ": " + message;
+            chatBox.appendChild(messageElem);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+    </script>
+</body>
+</html>
