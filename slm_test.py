@@ -60,7 +60,7 @@ def clear_console():
 model = get_model(context_length)
 end_token = model.tokenizer("\2")[0]
 
-for file in glob("./r9k/res/*"):
+for file in glob("./r9k/res/7296*"):
     text = open(file)
     text = text.read()
     tokens = model.tokenizer(text)
@@ -74,8 +74,8 @@ while (True):
     generated_tokens = generate(model, initial_context, end_token)
     generated_text = model.tokenizer.decode(generated_tokens)
     print(generated_text)
-    clear_console()
 
     input()
+
 
 
