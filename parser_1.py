@@ -8,6 +8,7 @@ for filename in os.listdir(dir):
     try:
         if not os.path.isfile(dir+filename):
             continue
+        
         f = open(dir+filename, "r", encoding="utf-8")
         #print(filename)
         all_lines = f.readlines()
