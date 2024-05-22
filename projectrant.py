@@ -3,11 +3,12 @@ from collections import defaultdict
 from simple_lm import *
 import re
 import random
-import pandas as pd
 import os
+from transformers import AutoTokenizer
+tokenizer = AutoTokenizer.from_pretrained("gpt2")
 
-context_length = 3
-tokenizer = WhitespaceTokenizer()
+context_length = 4
+#tokenizer = WhitespaceTokenizer()
 dir = "r9k/res/"
 
 #table = pd.read_csv("outputgreaterthan.csv")
@@ -31,9 +32,8 @@ def load_dataset():
         f = open(dir+filename, "r", encoding="utf-8")
         body = f.read()
         body = "\n".join(s.strip() for s in body.split('\n'))
-        tokens = tokenizer.tokenize(body)
+        tokens = tokenizer(body)["input_ids"]
         freq_table = get_next_token_table(tokens, context_length, freq_table)
-        
     return freq_table
 """
 for _, d in data.items():
@@ -50,10 +50,10 @@ initial_context = ["How", "are", "you?"]
 # Filter comments of length < context_length
 
 to_del = [] 
-for k in freq_table.keys():
-    if k[0][:10] == "<comment>":        
-        for i in range(1, len(k)):
-            if k[i][:10] == "<comment>":
+for k in freq_table.keys():    
+    if k[:4] == (27, 23893, 29, 198):
+        for i in range(4, len(k)):
+            if k[i:i+4] == (27, 23893, 29, 198):
                 to_del.append(k)
 
 for k in to_del:
@@ -66,20 +66,21 @@ os.system('cls')
 possible_starts = []
 
 for k,v in freq_table.items():
-    if k[0][:10] == "<comment>":
+    if k[:4] == (27, 23893, 29, 198):
         possible_starts.append(k)
     
 # -----------------------
 
-
 random.seed(1933)
 while (True):
     initial_context = list(random.choice(possible_starts))
-    
     generator = generate_tokens(freq_table, initial_context[-context_length:])
-    text = tokenizer.untokenize(generator)[10:]
+    tokens = list(generator)[4:-3]
+    text = tokenizer.decode(tokens)
     print(text)
-    input()
+    a = input()
+    if a == "q":
+        break
 """
 for i in range(20):
     print("--------- START RANT ---------\n")

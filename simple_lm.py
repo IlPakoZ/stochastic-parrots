@@ -42,14 +42,16 @@ def generate_tokens(freq_table, initial_context):
 
     while True:
         candidates = freq_table[context]
+        
         if not candidates:
             return
         next_word = random.choice(candidates)
-        
+        #print(next_word)
         # This might break if we change tokenization
-        if next_word[:10] == "<comment>":
-            return
+        
+        if next_word == 198:
+            if context[-3:] == (27, 23893, 29):
+                return
         context = (*context[1:], next_word)     
-
+        
         yield next_word
-

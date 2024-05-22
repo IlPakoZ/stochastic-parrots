@@ -1,4 +1,5 @@
 from simple_lm import *
+import tokenizer
 
 input_file = "sample_data/blowin_in_the_wind_verses.txt"
 context_length = 2
