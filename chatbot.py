@@ -9,7 +9,9 @@ app = Flask(__name__)
 # Define a function to generate responses based on user input
 def generate_response(initial_context):
     initial_context = pr.get_initial_context(possible_starts)
-    return pr.generate_text(freq_table, initial_context)
+    tokens = pr.generate(model, initial_context, end_token)
+    generated_text = model.tokenizer.decode(tokens)
+    return generated_text
 
 # Route to handle chat requests
 @app.route("/chat", methods=["POST"])
@@ -31,9 +33,15 @@ def main():
     app.run(port=args.port, debug=True)
 
 if __name__ == "__main__":
-    freq_table = pr.load_dataset()
-    pr.preprocessing(freq_table)
-    possible_starts = pr.get_possible_starts(freq_table)
+    context_length = 4
+    model = pr.get_model(context_length)
+    end_token = model.tokenizer("\2")[0]
+    pr.train_model(model)
+    possible_starts = pr.get_possible_starts(model.predictor.follower_table, end_token)
+
+    #freq_table = pr.load_dataset()
+    #pr.preprocessing(freq_table)
+    #possible_starts = pr.get_possible_starts(freq_table)
     
     random.seed(1933)
 
