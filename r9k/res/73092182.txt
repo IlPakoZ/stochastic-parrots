@@ -1,11 +1,6 @@
-<comment>
-What's your COVID-19 vaccination status?
-<comment>
-Untested, unvaccinated. 100% pureblood.
-<comment>
-Untested, unvaccinated, pure.
-<comment>
-10% pureblood
+What's your COVID-19 vaccination status?
+Untested, unvaccinated. 100% pureblood.
+Untested, unvaccinated, pure.
+10% pureblood
 your parents definitely are siblings
-<comment>
-tripplevaxxed and safe
+tripplevaxxed and safe

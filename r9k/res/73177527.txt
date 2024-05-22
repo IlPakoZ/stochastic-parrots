@@ -1,5 +1,4 @@
-<comment>
-I'm really pissed, I've been playing Skyrim a lot and I've installed a lot of mods. Now I want to do a vanilla run so I uninstalled all the mods, I booted up a new game and the carts are frozen, I looked everywhere online and I've tried 
+I'm really pissed, I've been playing Skyrim a lot and I've installed a lot of mods. Now I want to do a vanilla run so I uninstalled all the mods, I booted up a new game and the carts are frozen, I looked everywhere online and I've tried 
 deleting all my saves
 removing all my mods
 verifying files

@@ -1,36 +1,23 @@
-<comment>
-why wont this forum die?
+why wont this forum die?
 it is full of retards and porn. the jannies are just retards that ban any thread at will for no reason. it shows all the signs of a dead forum. 
 does anyone even run this site anymore?
-<comment>
-Just use a shit-ton of filters. It won't fully de-crapify everything but it'll at least make it a bit more bearable.
-<comment>
-yeah then you're filtering like 90 threads lol. I had filters but took them off because the board would be dead if I had them on.
-<comment>
-R9k has never been better, it's objectively great
-<comment>
-hiro literally destroyed this place. i hope he gets stabbed to death in paris.
-<comment>
-bloody bastard bitch crybaby like the terence, do not revert to me
-<comment>
-It's filter reset day, so it's time to filter 100 threads in three lines of regex.
+Just use a shit-ton of filters. It won't fully de-crapify everything but it'll at least make it a bit more bearable.
+yeah then you're filtering like 90 threads lol. I had filters but took them off because the board would be dead if I had them on.
+R9k has never been better, it's objectively great
+hiro literally destroyed this place. i hope he gets stabbed to death in paris.
+bloody bastard bitch crybaby like the terence, do not revert to me
+It's filter reset day, so it's time to filter 100 threads in three lines of regex.
 /(why|what|would you)[^\n]*$|^[^\n]+\?[^\n]*$|^>[^\n]+$/i;op:only
 /wom[ae]n|girl|[bg]f|incel|dick|pussy/i;op:only
 /mbti|gay|britfeel/i;op:only
-<comment>
-As a retard that posts porn I am offended
-<comment>
-It's supposed to be retarded and suck. That is its charm
-<comment>
-i agree. why do people complain about the quality of this board when its frequent shittiness and rare high quality post is its charm
-<comment>
-forum
+As a retard that posts porn I am offended
+It's supposed to be retarded and suck. That is its charm
+i agree. why do people complain about the quality of this board when its frequent shittiness and rare high quality post is its charm
+forum
 You need to go back.
-<comment>
-What era of /r9k/ would we call this?
+What era of /r9k/ would we call this?
 The normie r/teenager invasion? The /pol/ fallout? The slow death march to irrelevance?
 I'd rather it just be taken down than keep descending deeper into normalnigger filth. In a year or two you won't be able to tell this place apart from /b/.
-<comment>
-follow this guy
+follow this guy
 username: "Filter Guy"
 or just leet

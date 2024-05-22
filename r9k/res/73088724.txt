@@ -1,19 +1,13 @@
-<comment>
-If there can be no exact picture matches on this board
+If there can be no exact picture matches on this board
 Then every image posted is being permanently saved
 There is an archive of every image ever posted to R9K
 Imagine if it leaked
-<comment>
-If there can be no exact picture matches on this board
+If there can be no exact picture matches on this board
 that's only true when an identical image is already in the catalog, retard.
 you think every Pepe image is somehow unique?
-<comment>
-i had a fuckin stroke reading your first sentence
+i had a fuckin stroke reading your first sentence
 anyways yes there is an archive so 4chan isnt truly safe. its just an edgier reddit
-<comment>
-https://desuarchive.org/r9k/thread/73088724
-<comment>
-nobody stores images, it's hashes that can't match. every image can be fed through an algorythm and get a unique hash. another image can have the same hash but it is insanely unlikely with human-readable images (making an image that matches the hash but is gibberish is easy).
-<comment>
-no, it's easy
+https://desuarchive.org/r9k/thread/73088724
+nobody stores images, it's hashes that can't match. every image can be fed through an algorythm and get a unique hash. another image can have the same hash but it is insanely unlikely with human-readable images (making an image that matches the hash but is gibberish is easy).
+no, it's easy
 just put the right gibberish at the end of a normal image to make the hashes match

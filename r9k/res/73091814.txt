@@ -1,2 +1,1 @@
-<comment>
-.gg/sheep
+.gg/sheep

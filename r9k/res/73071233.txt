@@ -1,2 +1,1 @@
-<comment>
-There is no controller.
+There is no controller.

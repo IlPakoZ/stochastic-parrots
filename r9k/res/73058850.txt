@@ -1,9 +1,6 @@
-<comment>
-set up gentoo
+set up gentoo
 still no sex
 how over is it?
-<comment>
-Use mint with i3 because just werks
-<comment>
-I was in your position too. I happened to install Windows 10 and it just works. I know you think I am shilling it because I am some kind of fed, who wants you to use spyware, but honestly, it just werks.
+Use mint with i3 because just werks
+I was in your position too. I happened to install Windows 10 and it just works. I know you think I am shilling it because I am some kind of fed, who wants you to use spyware, but honestly, it just werks.
 But in terms of linux distros, Gentoo is a top-tier choice, despite having removed a lot of useful stuff in the past. Consider OpenBSD, I mean you can configure and compile the kernel too, but without a lot of the hussle that linux brings.

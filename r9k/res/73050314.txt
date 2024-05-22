@@ -1,19 +1,13 @@
-<comment>
-chrome extension was lagging my computer
+chrome extension was lagging my computer
 what was it doing?
-<comment>
-Harvesting your personal data.
-<comment>
-adblock saving up all those ads you skipped and it's gonna release them all at once on you - they're gonna explode all over you
-<comment>
-open chrome to test my shitty site protfolio in another browser
+Harvesting your personal data.
+adblock saving up all those ads you skipped and it's gonna release them all at once on you - they're gonna explode all over you
+open chrome to test my shitty site protfolio in another browser
 ok it looks fine
 close chrome
 notice half an hour later computer is slower
 check task manager
 chromes "software reporting tool" is eating my cpu
 Fuck google
-<comment>
-what extension wus it?
-<comment>
-By using the access granted by yourself (the User) by accepting the Terms and Conditions of Operation, Google Chrome has used its access to your computer's core processes to take over 10,000 pictures of your penis. Each image is stored in a Google database, and is in queue behind approximately 226.8 million other users to be compiled and triangulated by an AI to create a digital penile fingerprint, which is connected to logs of your online interactions and activity. This may be used to identify you by the Google Dissent Management Taskforce (GDMT) in the event of a successful coup organised by Google.
+what extension wus it?
+By using the access granted by yourself (the User) by accepting the Terms and Conditions of Operation, Google Chrome has used its access to your computer's core processes to take over 10,000 pictures of your penis. Each image is stored in a Google database, and is in queue behind approximately 226.8 million other users to be compiled and triangulated by an AI to create a digital penile fingerprint, which is connected to logs of your online interactions and activity. This may be used to identify you by the Google Dissent Management Taskforce (GDMT) in the event of a successful coup organised by Google.

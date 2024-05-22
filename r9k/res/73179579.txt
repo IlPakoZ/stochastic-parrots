@@ -1,8 +1,6 @@
-<comment>
-starts listening to music
+starts listening to music
 "hey this is actually pretty good !"
 continues listening to music
 doesn't stop
 stops going out
-<comment>
-Buy headphones?
+Buy headphones?

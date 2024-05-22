@@ -1,39 +1,21 @@
-<comment>
-Every time I try to post on R9K, get a message that says non ascii text is not allowed.
-<comment>
-It means to quit phone posting
-<comment>
-On some websites if you copy text it grabs some kind of Metadata that isn't visible. It's a newer thing, and I have no idea how to filter it.
-<comment>
-r/foundthemobileuser
-<comment>
-I don't. I use a computer.
+Every time I try to post on R9K, get a message that says non ascii text is not allowed.
+It means to quit phone posting
+On some websites if you copy text it grabs some kind of Metadata that isn't visible. It's a newer thing, and I have no idea how to filter it.
+r/foundthemobileuser
+I don't. I use a computer.
 I went and typed out my greentext in a google doc firsthand so that I don't have to type it out and rush to complete the story, then I copy-pasted said greentext to post here. Every time I did this, I'd get a message saying, "Non ASCII Characters Not Allowed".
-<comment>
-no ascii no goatse
-<comment>
-Use this website little buddy
-<comment>
-You know how there's ascii text and non ascii text? Well, the former is allowed to be posted while the latter is not.
-<comment>
-Probably something to do with jewgle. Just use sticky notes.
-<comment>
-Stop using mac.
-<comment>
-I use PC. I'm on Windows 10.
-<comment>
-This happens to me too and I've never owned a mac. It usually happens to me when I copy and paste text from a webpage I'm surprised it happened to op just pasting from a word doc
-<comment>
-What did youy type? You might have inserted a character that isn't allowed?
-<comment>
-I ran the text through a "text cleaner" and then tried posting again just now and it worked fine. It's just Google Docs specifically.
-<comment>
-Might just be a specific apostrophe, dash or something of the sort
-<comment>
-Are you esl? It might be because you are using a non english keyboard.
-<comment>
-Nope. English Keyboard. I use a ryzen computer.
-<comment>
-Punctuation marks are usually the culprit. i.e. [,],['] and ["]. Those three symbols have alternative forms. For example, the comma has a more rounded equivilant. Single and double quotes also have rounded opening forms and closing forms. Text editors like word or google docs will automatically replace the simple commas and quotes with the fancier versions. The problem is that these fancier versions are completly different characters and aren't part of the old, traditional ascii set. Ascii text is a subset of characters that only contain basic english letters and punctuation. Nothing fancy.
+no ascii no goatse
+Use this website little buddy
+You know how there's ascii text and non ascii text? Well, the former is allowed to be posted while the latter is not.
+Probably something to do with jewgle. Just use sticky notes.
+Stop using mac.
+I use PC. I'm on Windows 10.
+This happens to me too and I've never owned a mac. It usually happens to me when I copy and paste text from a webpage I'm surprised it happened to op just pasting from a word doc
+What did youy type? You might have inserted a character that isn't allowed?
+I ran the text through a "text cleaner" and then tried posting again just now and it worked fine. It's just Google Docs specifically.
+Might just be a specific apostrophe, dash or something of the sort
+Are you esl? It might be because you are using a non english keyboard.
+Nope. English Keyboard. I use a ryzen computer.
+Punctuation marks are usually the culprit. i.e. [,],['] and ["]. Those three symbols have alternative forms. For example, the comma has a more rounded equivilant. Single and double quotes also have rounded opening forms and closing forms. Text editors like word or google docs will automatically replace the simple commas and quotes with the fancier versions. The problem is that these fancier versions are completly different characters and aren't part of the old, traditional ascii set. Ascii text is a subset of characters that only contain basic english letters and punctuation. Nothing fancy.
 The robot blocks you from posting fancy non ascii characters like the fancy quotes. Otherwise you would be able to get around the robot by making a duplicate post and adding some invisible character, or swapping out the english letter 'a' for the russian letter 'a', which looks exactly the same but is still a seperate character.
 You also have to be careful when copy pasting from websites, since they may be using the fancy apostrophe or quotes and you don't realize.

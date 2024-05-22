@@ -1,4 +1,2 @@
-<comment>
-Do robots have any pets?
-<comment>
-Yes this my pupper.
+Do robots have any pets?
+Yes this my pupper.

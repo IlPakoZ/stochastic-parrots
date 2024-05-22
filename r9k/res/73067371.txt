@@ -1,2 +1,1 @@
-<comment>
-The ultimate goal of object-oriented programming is to orient a gun at anyone after your objects.
+The ultimate goal of object-oriented programming is to orient a gun at anyone after your objects.

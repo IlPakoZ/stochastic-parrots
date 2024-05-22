@@ -1,4 +1,2 @@
-<comment>
-He winned.
-<comment>
-Gemwood
+He winned.
+Gemwood

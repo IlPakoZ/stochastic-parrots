@@ -1,5 +1,3 @@
-<comment>
-gg/sheep
+gg/sheep
 Join the village.
-<comment>
-Blublublublublump
+Blublublublublump

@@ -1,5 +1,4 @@
-<comment>
-thirsty
+thirsty
 go to the kitchen to get a glass of water
 the galon bottle is empty
 shit, forgot to buy a new one today
@@ -12,5 +11,4 @@ go do the doctor
 do a analysis
 apparently i have some parasite
 fuck you god
-<comment>
-Another golem tricked by the evil medical industry
+Another golem tricked by the evil medical industry

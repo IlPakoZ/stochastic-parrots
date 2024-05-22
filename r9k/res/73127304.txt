@@ -1,6 +1,3 @@
-<comment>
-Fumo Friday
-<comment>
-bump for fumo friday
-<comment>
-happy fumo friday
+Fumo Friday
+bump for fumo friday
+happy fumo friday

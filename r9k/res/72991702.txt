@@ -1,7 +1,5 @@
-<comment>
-There are no young women around
-<comment>
-There are no young men around
+There are no young women around
+There are no young men around
 step onto a bus
 only women
 go to a coffee shop 

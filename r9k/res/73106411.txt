@@ -1,4 +1,2 @@
-<comment>
-Aging process starts at 20
-<comment>
-incorrect, aging process starts at 0
+Aging process starts at 20
+incorrect, aging process starts at 0

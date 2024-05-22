@@ -1,5 +1,4 @@
-<comment>
-How dark is your hair?
+How dark is your hair?
 How curly is it?
 How long is it?
 How tall are you?

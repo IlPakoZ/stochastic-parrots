@@ -1,10 +1,5 @@
-<comment>
-Bellavista
-<comment>
-Baccate.
-<comment>
-Buckshire
-<comment>
-Pinsoca
-<comment>
-Polloquista
+Bellavista
+Baccate.
+Buckshire
+Pinsoca
+Polloquista

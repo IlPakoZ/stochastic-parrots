@@ -1,6 +1,3 @@
-<comment>
-SAY THE LINE MegaLUL
-<comment>
-the run was simply dead anyway
-<comment>
-it was built in
+SAY THE LINE MegaLUL
+the run was simply dead anyway
+it was built in

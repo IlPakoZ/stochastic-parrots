@@ -1,13 +1,7 @@
-<comment>
-what sort of world do you want to live n?
-<comment>
-this is sage.
-<comment>
-A world where people don't need to eat or sleep. 
+what sort of world do you want to live n?
+this is sage.
+A world where people don't need to eat or sleep. 
 You wouldn't have to work, you wouldn't need to own anything, you never get tired to the point of needing sleep to recover, you could do anything you want.
-<comment>
-beyond human scale architecture like blame or how an ant would see our buildings
-<comment>
-wacha mean?
-<comment>
-You should check out early HR Giger art, like Schacht
+beyond human scale architecture like blame or how an ant would see our buildings
+wacha mean?
+You should check out early HR Giger art, like Schacht

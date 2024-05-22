@@ -1,17 +1,12 @@
-<comment>
-Started an Instagram account posting photos of this AI Generated girl, pic related. Keep the face consistent through the posts, post 3 times a day, use ChatGPT to get the hashtags and captions.
+Started an Instagram account posting photos of this AI Generated girl, pic related. Keep the face consistent through the posts, post 3 times a day, use ChatGPT to get the hashtags and captions.
 Get up to 1k followers
 Account suspended
 There are literally thousands of posts like this, moreover some Instagram accaunt that are AI Generated women as well, some have over 10k followers, aren't banned.
 Anyway robots, what other ways are to use AI Generated girls to milk money from thrusty SIMPS? Tinder? Keep in mind that without a sales funnel your OnlyFans will not get anywhere...
-<comment>
-yo OP please give me a breakdown/link to a youtube tutorial on how to generate AI thots, i have a life mission to fulfill
-<comment>
-Use onlyfans and advertise on Reddit
-<comment>
-https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb#scrollTo=PjzwxTkPSPHf
+yo OP please give me a breakdown/link to a youtube tutorial on how to generate AI thots, i have a life mission to fulfill
+Use onlyfans and advertise on Reddit
+https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb#scrollTo=PjzwxTkPSPHf
 Use the realistic vision checkpoint
 https://huggingface.co/SG161222/Realistic_Vision_V2.0/resolve/main/Realistic_Vision_V2.0.safetensors
 I could give you the prompts and the negative prompts as well...
-<comment>
-How, how do I advertise on reddit?
+How, how do I advertise on reddit?

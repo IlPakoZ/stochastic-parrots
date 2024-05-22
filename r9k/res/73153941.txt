@@ -1,4 +1,2 @@
-<comment>
-It lacks a human pulse
-<comment>
-BAAAAAH
+It lacks a human pulse
+BAAAAAH

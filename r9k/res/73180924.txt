@@ -1,15 +1,10 @@
-<comment>
-Coding is great for inkwells, let's learn
+Coding is great for inkwells, let's learn
 Python function, we can add parameters later
 Reply with the next line
 def doRobo():
-<comment>
-return None
-<comment>
-two=3
+return None
+two=3
 two_plus_two=two+two
 print(two_plus_two)
-<comment>
-Coding is for ai. Away with you, soulless automaton
-<comment>
-This is why we're here forever
+Coding is for ai. Away with you, soulless automaton
+This is why we're here forever

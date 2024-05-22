@@ -1,4 +1,2 @@
-<comment>
-derive
-<comment>
-oh who is john galt
+derive
+oh who is john galt

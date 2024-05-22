@@ -1,6 +1,4 @@
-<comment>
-Five numbers between 1 and 50
+Five numbers between 1 and 50
 Two numbers between 1 and 12
 First repeating digits decide.
-<comment>
-Couldn't you just put on every single number combination and be guaranteed to win?
+Couldn't you just put on every single number combination and be guaranteed to win?

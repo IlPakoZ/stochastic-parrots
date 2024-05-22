@@ -1,3 +1,2 @@
-<comment>
-gg/sheep
+gg/sheep
 Didcord
