@@ -5,18 +5,31 @@ import random
 
 app = Flask(__name__)
 
+
+
 # Define a function to generate responses based on user input
 def generate_response(initial_context):
-    initial_context = pr.get_initial_context(possible_starts)
+    #initial_context = pr.get_initial_context(possible_starts)
     tokens = pr.generate(model, initial_context, end_token)
-    generated_text = model.tokenizer.decode(tokens)[1:]
+    generated_tokens = list(tokens)[len(initial_context):]
+    generated_text = model.tokenizer.decode(generated_tokens)
     return generated_text
 
 # Route to handle chat requests
 @app.route("/chat", methods=["POST"])
 def chat():
     user_message = request.json.get("message", "")
-    response = generate_response(user_message)
+    new_context = model.tokenizer(user_message)
+    app.config["context"] += new_context + model.tokenizer("\n")
+    print("Context:", model.tokenizer.decode(app.config["context"]))
+    #print(app.config["context"])
+    #print(app.config["context"])
+
+    response = generate_response(app.config["context"])
+    #print(response)
+    app.config["context"] += model.tokenizer(response) + model.tokenizer("\n")
+
+    print("Context:", model.tokenizer.decode(app.config["context"]))
     return jsonify({"response": response})
 
 # Route to serve the index.html file
@@ -33,10 +46,11 @@ def main():
 
 if __name__ == "__main__":
     context_length = 4
+    app.config["context"] = []
     model = pr.get_model(context_length)
     end_token = model.tokenizer("\2")[0]
     pr.train_model(model)
-    possible_starts = pr.get_possible_starts(model.predictor.follower_table, end_token)
+    #possible_starts = pr.get_possible_starts(model.predictor.follower_table, end_token)
 
     random.seed(1933)
 
