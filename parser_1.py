@@ -5,6 +5,7 @@ import os
 dir = "r9k/"
 #filename = "r9k_72938968.txt"
 for filename in os.listdir(dir):
+
     try:
         if not os.path.isfile(dir+filename):
             continue
@@ -13,9 +14,11 @@ for filename in os.listdir(dir):
 
         all_lines = f.readlines()
         f.close() 
-        new_lines = ["\2"]
+        new_lines = []
         all_lines = all_lines[1:]
-        last_comment = ""
+        citations = []
+        plain_text = []
+        used = False
         for line in all_lines:
             line = line.lstrip()
             new_comm = re.match(r"--- [0-9]+", line)
@@ -23,29 +26,105 @@ for filename in os.listdir(dir):
             if refs:
                 continue
             if new_comm:
+                used = False
                 res = "\2"
-                if last_comment:
-                    new_lines.append(last_comment)
-                    last_comment = ""
-                    new_lines.append(res)
+                if plain_text:
+                    new_lines.append("\2")
+
+                    citations = []
+                  
+                    new_lines.append("".join(plain_text))
+                    plain_text = []
+                    #new_lines.append(res)
             #elif line[0] == ">":
             #    res = line[1:]
             #    last_comment += res
             else:
-                ls = line.split("\n")
+                
+                if line:
+                    if line[0] == ">":
+                        if not used:
+                            if plain_text:
+                                if citations:
+                                    for cit in citations:
+                                        new_lines.append("\2")
+                                        new_lines.append(cit)
+                                        new_lines.append("\2")
+                                        new_lines.append("".join(plain_text))
+                                else:
+                                    new_lines.append("\2")
+                                    new_lines.append("".join(plain_text))
+
+                                plain_text = []
+                                citations = []
+                        used = True
+                        while line[0] == ">":
+                            line = line[1:]
+                        citations.append(line)
+
+                    else:
+                        plain_text.append(line)
+                        used = False
+                """
                 for i in range(len(ls)):
                     if ls[i]:
-                        if ls[i][:2] == ">>":
-                            ls[i] = ls[i][2:]
+                        if ls[i][:2] == ">>":                                
+                            if new_text:
+                                for cit in citations:
+                                    new_lines.append("\2")
+                                    new_lines.append(cit)
+                                    new_lines.append("\2")
+                                    new_lines.append("\n".join(new_text))
+                                new_text = []
+                            #ls[i] = ls[i][2:]
+
+                            if not used:                                    
+                                used = True
+                                citations.append(ls[i][2:])
+                            else:
+                                citations.append(ls[i][2:])
+
                         elif ls[i][0] == ">":
-                            ls[i] = ls[i][1:]
+                            print("Hey,", new_text)
+
+                            if new_text:
+                                for cit in citations:
+                                    new_lines.append("\2")
+                                    new_lines.append(cit)
+                                    new_lines.append("\2")
+                                    new_lines.append("\n".join(new_text))
+                                new_text = []
+
+                            if not used:
+
+                                used = True
+                                new_lines.append("\2")
+                                citations.append(ls[i][1:])    
+                            else:
+                                citations.append(ls[i][1:])    
+                                                        
+                            #ls[i] = ls[i][1:]
+                        else:
+                            used = False           
+                            new_text.append(ls[i])
+                # DO NOTHING IF THERE ARE JUST CITATIONS IN A COMMENT
+                if new_text:
+                    for cit in citations:
+                        new_lines.append("\2")
+                        new_lines.append(cit)
+                        new_lines.append("\2")
+                        new_lines.append("\n".join(new_text))
+                if citations:
+                    pass
+                
                 line = "\n".join(ls)
 
                 last_comment += line
+                """
 
-        new_lines.append(last_comment)
-            
-
+        if plain_text:
+            new_lines.append("\2")
+            new_lines.append("".join(plain_text))
         #new_lines.append("<commentsend>")
         
 

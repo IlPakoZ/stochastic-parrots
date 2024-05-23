@@ -39,10 +39,7 @@ I said I'll make a follow up if I got 20 likes and I got 20 likes. It took a whi
 Here's a draw-this-again-meme I made back in January.
 Don't have any pics since I'm at work, but I've been slowly working on my latest batch of warhammer 40k models. In fact: I plan on finishing some of them off while doing my midnight shifts.
 What army and what units?
-I made a dumb age calculator in python
-its my first program refined it a little bit
-this is v3
-name = input("what is your name? ")
+name = input("what is your name? ")
 print (name)
 yearborn = input("what year were you born")
 age= 2023 - int(yearborn)

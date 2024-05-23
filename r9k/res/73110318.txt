@@ -2,8 +2,7 @@
 So either I need to spend $500 shekels to get a new phone to do revanced or pay the YouTube premium like a goyim.
 Its over
 Did you try newpipe? That's what I use
-they decided to put the ability of playing audio with the screen off behind the paywall
-I bet if you root your phone you could disable that, like how you can disable an apps ability to prevent you from taking a screenshot. I dunno what the specific setting would be, so maybe go ask >>>/g/ if it's even possible.
+I bet if you root your phone you could disable that, like how you can disable an apps ability to prevent you from taking a screenshot. I dunno what the specific setting would be, so maybe go ask >>>/g/ if it's even possible.
 Firefox with add-ons for background play and ad/sponsor block
 It's all we have left.
 you can use brave or another browser for a lazy workaround. allows you to play it in the background with your phone locked. skips most ads with just the default brave browser adblocker. used that when vanced finally died on mine, and I didn't spend the time to look into alternatives. fine for the purpose you intend.

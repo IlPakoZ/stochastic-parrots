@@ -1,8 +1,7 @@
 how do i create a new partition for my /home files on debian? basically i want everything aside from the OS on a seperate partition
 can someone lead me through the process
 Why are you asking /r9k/, go to /g/
-Why are you asking /r9k/, go to /g/
-this is my home
+this is my home
 First, check the available disks and their partitions using the lsblk command in the terminal. This will show you a list of all the disks and partitions on your system.
 Decide which disk you want to use for your new partition. Make sure it has enough free space to accommodate your /home files.
 Next, use the fdisk or parted command to create a new partition on the chosen disk. For example, if you want to create a new partition on /dev/sda, you can use the following command:

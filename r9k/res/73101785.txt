@@ -1,5 +1,4 @@
-the adventure party is leaving the village and (YOU) are the newest member
-Whats your build?
+Whats your build?
 Strength+ultra greatsword
 Blind monk
 Combine operator

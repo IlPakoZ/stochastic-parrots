@@ -1,4 +1,2 @@
 2 questions 
-What websites or programs are used to create AI audio deepfakes, especially porn ones? 
-If you know about the Hololive deepfakes, who creates them, uploads them where and how do you know when a new one's created?
 I make AI audio porn with Elevenlabs and FL Studio. It often takes a few generations for each prompt to get anything remotely resembling what you want, and even then it has to be heavily edited to sound good. I use the built-in Newtone plugin in FL Studio for intricate adjustments to the way words are spoken. Other than that I only really add sound effects and make volume, compression, and EQ changes. It's tedious but the results can be really good

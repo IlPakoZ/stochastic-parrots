@@ -10,6 +10,4 @@ It's sick how easy it was for me to stumble opon, i won't tell you how i found i
 Opened it in Tor and it wanted me to enable javascript. Don't feel like booting up a virtual machine right now to test it. Sorry not sorry.
 rude
 (in a original way)
-clearweb
-.ru
-yeah i'm not clicking that shit nigga
+yeah i'm not clicking that shit nigga
