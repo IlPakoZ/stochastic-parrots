@@ -10,7 +10,7 @@ app = Flask(__name__)
 def generate_response(initial_context):
     initial_context = pr.get_initial_context(possible_starts)
     tokens = pr.generate(model, initial_context, end_token)
-    generated_text = model.tokenizer.decode(tokens)
+    generated_text = model.tokenizer.decode(tokens)[1:]
     return generated_text
 
 # Route to handle chat requests

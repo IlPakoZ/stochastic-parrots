@@ -1,11 +1,12 @@
 for f in ./r9k/*
 do
-	v=`file "$f"`
+	v=`file "$f"`;
+	n=`basename "$f"`
+	echo "$n"
 	if [[ "$v" == *"ASCII"* ]]; then
-		echo "basename $f"
-		
-		iconv -f "ASCII" -t "utf-8" "$f" -o "$f"
-		
+		iconv -f "ASCII" -t "utf-8" "$f" -o "./r9k/converted/$n"
+	else
+		cp "$f" "./r9k/converted/$n"
 	fi
 	echo $v
 done
