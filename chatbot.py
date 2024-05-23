@@ -1,4 +1,3 @@
-
 from flask import Flask, request, jsonify, send_from_directory
 import argparse
 import project_rant as pr
@@ -39,11 +38,6 @@ if __name__ == "__main__":
     pr.train_model(model)
     possible_starts = pr.get_possible_starts(model.predictor.follower_table, end_token)
 
-    #freq_table = pr.load_dataset()
-    #pr.preprocessing(freq_table)
-    #possible_starts = pr.get_possible_starts(freq_table)
-    
     random.seed(1933)
 
     main()
-
