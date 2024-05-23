@@ -1,0 +1,36 @@
+-----
+--- 2566493
+Does anyone on here know where to get a map, map layer or gpx file of all the hiking trails of Los Alcornocales natural park in Spain? I'm preparing to hike part of the GR7 between Ronda and Tarifa, but a lot of the established route skirts along the edge of the park and I want to plot a course through it instead.
+--- 2566659
+no but i have the gr 20 one if you need it
+--- 2566966
+>>2566659
+I got the GPX to all European long distance trails. Managed to plot a side loop by using Wikilocs. Found out that route would take a few days longer and I sadly don't have the time.
+--- 2568374
+>>2566493 (OP)
+https://www.openstreetmap.org/
+--- 2568907
+I don't know, but you must know that it's hot af down there, and the "quillos" speak spanish with a heavy accent and you won't understand them unless you are a native speaker.
+--- 2568911
+>>2568907
+its not just normal spanish with a lisp? nuoh my god.
+--- 2568925
+Thanks for the help guys, but I didn't learn anything new on here. Managed to use some topo maps from signa.ign.es along with satellite imagery, some more Wikilocs sleuthing and a blog (explorelatierra.com) to plot pic related. Should be an easy hike within the time I have.
+--- 2568958
+>>2568925
+you didn't learn anything new on OSM?
+--- 2569058
+>>2568958
+Bro, which map layer do you think I initially used in Basecamp? OSM is great resource if you know where you're going or for finetuning your route. Not really for pathfinding.
+--- 2569079
+I use Topo maps and export to my fenix, its pretty easy to use
+
+gaiagps.com
+--- 2569101
+>>2566493 (OP)
+Looks like a cool trip. Let us know how it goes.
+--- 2569186
+>>2569058
+I use these two for my hikes: https://hiking.waymarkedtrails.org/#route?id=318027&amp;type=relation&amp;map=10.0/36.2597/-5.2047
+https://www.freemap.sk/#map=14/43.908620/20.200081&amp;layers=X
+They still use osm data naturally, but it's easier to calculate, plan, download etc.

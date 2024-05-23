@@ -1,0 +1,67 @@
+-----
+--- 2574014
+im looking for devices to maintain contact between two sites that will be a few miles apart, with a mountain in between. 
+we have a large group that will be splitting into two teams. one wants to go further than the first campsite but it involves some terrain the other team isn't interested in. 
+my understanding is that 2-way radios tend to struggle with these distances, especially if blocked by earth. i know there are 2-way satellite communicators as well, which seems reasonable as long as they work as advertised.
+what is the right tool for this use case?
+also radio general i guess
+--- 2574017
+40 channel handheld CB radios. They're really your only option. Big ones like 5w minimum. I think you can get 10w ones usually called the marine version. They aren't cheap if you want 3.
+--- 2574035
+>>2574017
+this would be a solution for peak-to-peak right? im skeptical CB works valley-to-valley
+--- 2574048
+This might work for you
+https://en.wikipedia.org/wiki/Near_vertical_incidence_skywave
+--- 2574068
+>>2574035
+Correct they probably won't work through a mountain.
+--- 2574074
+>>2574014 (OP)
+Line-of-sight laser Morse code with mirrors.
+--- 2574075
+>>2574014 (OP)
+>>2574074
+Alternatively, radio relays.
+--- 2574077
+>>2574075
+This. Gives you a good reason to hike to the top.
+--- 2574078
+What’s the distance between Charlie-Bravo?
+--- 2574106
+>>2574014 (OP)
+have you tried astral projection?
+--- 2574165
+>>2574077
+>>2574075
+have to summit to get there anyway, is it realistic to set something like that up en route? is it vulnerable to the elements?
+>>2574078
+About 2 miles, bird's flight. something like a 3000ft climb
+>>2574106
+how do you think i know where the mountain is dumbass?
+--- 2574486
+>>2574165
+>is it realistic to set something like that up en route? is it vulnerable to the elements?
+Two UV-5Rs can be turned into a simple cheap repeater, there's some guides on it. Then just put it in a dry case (or in a plastic bag or something if you use a big antenna lole) and tie it up in a tree.
+--- 2574552
+>>2574014 (OP)
+Satellite phone. Everything else is likely outside the scope of your project unless your building a base and network.
+--- 2575643
+>>2574014 (OP)
+Just use cellphones. Stop pretending you're in a remote area.
+--- 2576651
+This should do it. You can write your own calls and meanings.
+--- 2576655
+>>2574014 (OP)
+Baofengs with a repeater at the top of the mountain.
+--- 2576679
+>>2576651
+Wait...
+Wasn't that the entire point of horns from the get go?
+
+Would be kinda based to use them like that...
+--- 2576695
+>>2574014 (OP)
+Smoke signals?
+
+fucking natives with no education figured this out

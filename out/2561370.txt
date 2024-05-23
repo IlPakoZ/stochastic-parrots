@@ -1,0 +1,66 @@
+-----
+--- 2561370
+trying to do my first ever project, mapping out my local forest that stretches between two towns, any tips from fellow enthusiasts?
+--- 2561372
+fyi, living in the uk we dont have any regular trail maps unless theyre big parks, so i dont have any point of reference, also i will be using itak as recommended by a friend but id love any suggestions
+--- 2561398
+On the top pick notice how the branches grow to one side, all of the trees do this but hard to get a good pic? I was in a small valley and the branches only grow towards the sun because on the non branch side the light never hits due to the valley. Well it gets pretty windy in the fall and winter so those branches act like a sail and eventually twist the tree, second pic. When those branches get blown out of the sun side they die and new ones sprout up on the leading edge of the sunlight. Eventually over hundreds of years they look like the bottom pic.
+
+When the trees get bound up the "relax" and make a bang/pop/smack noise, it happened right in front of me once and I saw tree sawdust. Now you know where a Bigfoot Knock comes from.
+--- 2561468
+>>2561398
+>Now you know where a Bigfoot Knock comes from
+Its usually not just one knock. I've experienced the bigfoot knocks before and they lasted for half an hour in two directions and abruptly stopped at the same time in both directions
+--- 2561572
+>>2561372
+No idea how it works in bongland, but I was able to get a basic map from my local city government. I used that and caltopo that had a lot of older and useful maps for the area (elevation, stream/ponds marked, etc). I walked the trail using my phone GPS to double check distances with the streams/ponds/elevation changes used as landmarks to map the actual trail route. Then when I got done marking all the trails on the outdated maps, I overlapped the outdated map with a newer survey map that was made recently to copy all the trails over.
+
+I had absolutely no idea what I was doing going in to it, as it's the first and probably last time I made a map, but it turned out mostly accurate even though the final picture was just a red line on top of endless trees with a few of the bigger landmarks just circled and written in as text. I wish I could've made it a bit more stylistic, but I'm not an artist or a map maker so I just focused on making it as accurate as I could.
+--- 2562153
+>>2561370 (OP)
+Get an Ipad with gps, install fieldmove, import a satellite image and you can use it as a basemap and draw maps and rock units/ trees on it as you go. The gps can get fucked up with heavy tree cover or in gullies so use your brain when marking stuff and make sure that you correlate stuff that you're marking down with stuff you can actually see.
+source - I am a field geologist and create bedrock maps of the western US
+--- 2562155
+>>2562153
+of course this has a barrier to entry of the cost of the ipad, but if you want I guess go out there with a compass and get good at measuring distance with your stride. try to walk in straight lines and record your bearing and how far you walked in a direction before changing directions. take notes of what you see along the way. the fieldmove method is pretty good because you can take pictures that are geotagged with your gps location so you dont have to guess where the cool pictures you take are actually from.
+--- 2562746
+>>2561372
+>>2561572
+GIS data is attainable for all first world countries.
+>>2562153
+Imagine spending all that time and money to map a trail that's like 5k long.
+--- 2563567
+>>2562746
+I was about to mention GIS. Something I've been thinking about learning for a long time. Considering it as a possible carrier path and a hobby. I'm good with computers but also very /out/
+Any suggestions? Not OP by the way.
+--- 2563661
+>>2561572
+>caltopo
+this
+--- 2563999
+>>2563567
+There are lots of free GIS data providers--depends where you live and what features you plan on using. It's usually better just to get maps from regional producers than to figure it all out on your own. Custom Correct, for example, has very up to date (Using GIS data) maps for Western Washington.
+It's hard to get good cartography training not associated with a cartography degree outside of the military.... I think you can get some sort of certificate for GIS online though.
+--- 2564479
+>>2561370 (OP)
+GPS will be the most straightforward. Look into getting forecasts for best accuracy, both in available constellation and also atmospheric issues. Cheap way to fake accuracy is take the spatial average of a cluster of points for each feature you want to map. It'll be hard if you have heavy tree cover though. 
+
+>>2563567
+>>2563999
+Take a look at the ESRI website, they occasionally offer 'MOOCs' which are free online courses where they give you access to their software. There's a cartography course being offered right now I think but it closes April12th. Other option would be using QGIS and following along with online tutorials. For data a good start is searching "County/State Open GIS Data". In the USA there's generally pretty good data availability, especially through national sources, the USGS has lots.
+--- 2564483
+>>2564479
+https://www.esri.com/training/mooc/
+I'll also dump a crap load of reference links they had for one of the courses.
+--- 2564488
+>>2564483
+Most of the links weren't useful turns out. Here's 3:
+> https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/
+>https://shadedrelief.com/
+>https://introduction-to-cartography-learngis.hub.arcgis.com/
+Thanks for coming to my tedtalk. Back to lurking.
+--- 2566108
+>>2564479
+>>2564483
+>>2564488
+Based GIS sperg

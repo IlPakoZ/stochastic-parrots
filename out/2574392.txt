@@ -1,0 +1,168 @@
+-----
+--- 2574392
+How do you prepare for a blackout?
+--- 2574397
+Car battery or two and inverter or two. Then just learn how to math out electric stuff (400 watt inverter? Don't connect your fridge!).
+
+Keeps me with light and internet, and even some heat (electric blanket) through the worst stuff.
+
+Don't bother with lithium, it's benefits are not applicable here. You don't need low weight, density, or full rechargeability.
+
+ Lead acid is the way to go. 80$ for 1kw storage is unachievable any other way. Maybe go for a deep cycle marine if you think you'll have constant black outs.
+Keeping communication open is important. Just set up one of those inverters to run your router and modern and landline if needed (corded does not need power), but, test this.
+Contact your utilities and ask if they power the lines in blackouts. If so, you'll still have internet and phone.
+
+From there, you could invest in a mini fridge, or learn to keep your fridge full. Keep bags of ice and stuff in there, and DONT open it unless you absolutely positively NEED something in there. fridges are great insulators until you open them and let all the cold air out, then it has to suck the cold form your food to rechill. Very bad.
+
+Get 12v led strips for lighting, and 12v accessories to hook up to your lead acids (You can even go small, ask at junkyards for cheap ones. They don't have to be great. It's better to have a few small ones that one big one if you're more clever with electronics, but i won't get into that yet.
+
+As for why you want 12v accessories.... Inverters are mildly inefficient. You should avoid using them *if* possible.
+--- 2574398
+>>2574397
+This guy blacks out.
+--- 2574400
+Stop relying on electricity.
+
+>>2574397
+>doing all of this just so you can stay on your computer
+This is sad bro.
+--- 2574401
+With a telescope. You can see the milky way from your backyard
+--- 2574404
+I hope everyone is prepared for any disaster after what happened with COVID in March 2020. You better have enough food and water to last you a month
+--- 2574406
+>>2574392 (OP)
+i ussually try to make it to my bed, and hopefully have some water in a bottle next to me, and make sure to lay on my side
+--- 2574418
+>>2574392 (OP)
+Why would there be a blackout? I don't live in California or Texas
+--- 2574426
+>>2574418
+a blackout can happen everywhere
+--- 2574429
+>>2574426
+That's great buddy, but it mostly happens in those shitholes.
+--- 2574431
+>>2574429
+sorry to disapoint you, but i am an europoor
+--- 2574523
+>>2574392 (OP)
+Buy an inverter generator, that way you can watch anime and play video games...plus the noise will attract opportunistic raiders and you can shoot them and get free loot. But in all seriousness, an inverter generator is probably the cheapest option and if you are not worried about clean power for sensitive electronics a regular generator is even cheaper. There are also battery banks and solar panels, that can get costly, but they don't make noise.
+--- 2574530
+>>2574392 (OP)
+I've got solar and a bank of deep cycle batteries. No black outs here.
+--- 2574540
+>>2574392 (OP)
+>How do you prepare for a blackout?
+used to happen all the time
+then like 12 years ago or so when the govt was paying 80% of the cost to install solar panels I got 2 panels put on my house
+havent had to worry about it since
+its nice still having lights on and loud music playing when the rest of the town is in darkness lol
+--- 2574612
+>>2574392 (OP)
+Our power was off for 6 days following Hurricane Katrina and 14 following Ida. 
+
+Generators are ok. Just be prepared to only use it maybe twice following a long outage. Most aren’t designed for a duty cycle like that. Don’t buy a used one. You’re supposed to change the oil in them pretty often but I do t think anyone does. 
+
+Barring that, be prepared to empty your fridge. Freezer things spoil in a day or two, fridge items soon after. If you evacuated for several days, just duct tape the door closed and toss it out. Everything will have melted and you’ll never get that smell out. 
+
+Keep books and games on hand. With no power means you probably won’t be going to work. After a day or two you’ll be sitting around your house with nothing to do. “Hurr you need power for entertainment? Durr people lived without it for hundreds of years!” Yeah, and they read and played games. Also most of them farmed from sun up until sundown, or went to social events on their days off. You’re not a farmer and you do t know your neighbors names.
+--- 2574630
+What happened to the prepping general? Some Polish guy was doing some shit.
+--- 2574664
+Because China has access to our grid....thanks Joe.
+--- 2574680
+>>2574392 (OP)
+ask your mom
+--- 2574683
+I don't.
+Prepping is for people that are spiritually weak.
+You accept death when it comes to you.
+--- 2574694
+jugs of kerosene
+--- 2574695
+>>2574392 (OP)
+a short one?
+power banks for charging phone and candles
+--- 2574707
+>>2574397
+>fridges are great insulators until you open them and let all the cold air out, then it has to suck the cold form your food to rechill. Very bad.
+You can get one that opens from the top to decrease the amount of cold air that flows out when opened.
+--- 2574742
+>>2574683
+I love that type of thinking, keep doing what you're doing
+--- 2574748
+>>2574612
+you do t know your neighbors names.
+There is 12 house's on this street, I can name off every single person who lives on this road. Love my neighbors.
+--- 2574753
+>>2574523
+This. I picked this up 5 years ago and it's pretty efficient and will power a refrigerator, lights, tv. Even started and ran and filled a well pump (with nothing else plugged in).
+--- 2574754
+>>2574612
+Oh man I don't miss New Orleans AT ALL.
+Enjoy that shithole, anon.
+
+Also the solution is to live off grid.
+--- 2574755
+>>2574397
+>part 2: Non electrics
+>>2574707
+Bro's right. You can practically treat cold sir like water. It flows. It'll flow out your fridge door... unless you have a TUB. A big old freezer tub. Open the door, and all that cold stays in. As a result they're extremely efficient and can run off as low as 30 watts. BUT DONT BE FOOLED, they need a burst of power, up to 1,000watts, to crank their motor, only settling to their super low power after. You'd either want to design your electrics around this (straight 12v if you can find one, no inverter), OR... just use it as a big cooler, no electricity. It'll work as good as the best yeti. 
+
+For heat, you can't beat hydrocarbons.
+You also can't beat bundling up. Your dad was right, heating isn't easy. But if you have pets, or indoor plumbing (pipes can freeze)... you do need to try to heat the place.
+
+There's a lot to get into. It depends on your budget, home size, insulation, etc. 
+But personally, i have 3 coleman pump gas lanterns, and a gallon of gasoline. Heat and light, and super efficient. That one gallon could last me 2 weeks.
+
+If you really wanna get toasty, try a mr buddy, but propane tanks get expensive if you hoard them like you'd need to. They sell out fast in local stores during hardship, buy them now. Gasoline is almost never unavailable, and even at $5 a gallon... a gallon is all you need for those small lanterns or stoves.
+
+Yes, they make gas stoves too. Look into them, it's down to preference really, but i have a pump gasoline one too. 
+Don't buy whitegas, it's just purified gasoline, for like 20x the price. Get a dual fuel, they can handle it.
+
+Lastly, entertainment. No real advice here, everyone has different tastes. Just consider power-free entertainment. Books and art supplies and puzzles and whatnot.
+
+There's enough for a part 3, considering the outside world and it's connection to you (your town's water supply is electricity dependent) 
+But this is already pretty much prepper territory.
+--- 2574758
+>>2574755
+propane is nice in that you don't need stabilizers, gasoline might not be usable when you need it.
+where I live heavy snow almost always means no power, we're only 15 miles from town, but the roads are almost impassable. going into town to get gas for a generator isn't always going to be practical
+
+if you can swing it, a wood stove for heat/cooking, a propane generator. barring that a few deep cycle batteries and an inverter charger to keep them topped off would come in handy for smaller electronics (think cell phone, laptop, etc) to use with an inverter.
+--- 2574759
+>>2574400
+>This is sad bro
+Welcome to nu-out. Enjoy your short stay
+--- 2574782
+>>2574431
+>for a short one
+same as elsewhere, flashlights, extra batteries, shelf stable food, enough bottled water for drinking and cooking for 3 days, power bank to keep -Basic- phone use running. clothing and blankets to deal with your local weather spectrum.
+>extended one
+you don't. for eurps who can't go hid in a fortress, you revert to classic expendable peasant status and your odds are not good.
+--- 2574792
+Car battery and inverter or just wait for the power to be switched back on.
+
+If in some weird situation civilization fails and you get blackouts that don't get fixed then probably small scale alternative energy.
+
+Solar is cheap and thermoelectric plates are also cheap if you want to use firewood and heat to generate your electricity. I would use charcoal as well for thermoelectric, or steam, if you can't access or repair solar.
+
+Now Solar thermal is another good low tech alternative energy source, which is not the same as photovoltaic panels like you see normally. There is an interesting publication called Low Tech Magazine that is full of stuff like this.
+
+Let me ask you this: You can figure out a way to provide your own electricity, but what would you do if the internet infrastructure failed?
+--- 2574793
+>>2574792
+
+In some countries, brownouts are pretty common, and electricity is not everywhere or always reliable. A lot of people use car batteries and 12v stuff or inverters as mentioned, especially if you are working on a computer or something and a blackout would destroy your data and keep you from working.
+--- 2574797
+>>2574392 (OP)
+3 days minimum worth of stored non-perishable food (for each person and any animals), water (for each person and any animals, also account for water for cooking purposes), and fuel (for a generator large enough to run at least a fridge plus a little extra, extra fuel for something like a dirtbike or car is a plus) is the standard minimum IMO. If you skip the generator you should at least be in a good climate or be adjusted enough or have redundant backups (fireplace, wood burning stove, well insulated house etc) to not need any climate control (AC or electric or gas utility heating and water pumping etc might be unreliable).
+--- 2575038
+>>2574400
+This. The less you need, the less can surprise you. Electricity is a convenience, but make it so you don't need it. Fridge is a weakness, store just food that doesn't rot without a it. Have candles ready. Don't store information in digital form, paper is your friend. Electric kettle is useful, but you can boil water on stove too. Try to live in the city like if you lived off the grid. Internet just at uni/public library. Charge your phones in public transport or at your workplace. Collect water in barrels.
+--- 2575290
+>>2575038
+I see what you're saying but also, you can do both.
+
+Have the larder of canned/dried supplies, use pen and paper and all the dependable old ways. It's smart. But also, have a fridge if you can... have internet and a PC. Even if it is crap 30% of the time, that's still a lot of time with your creature comforts. And I don't see anything wrong with it, you can still put it all away and enjoy the great outdoors all around you. Watching Breaking Bad at the lake while 20 miles from the nearest person, on a warm summer night, is acceptable behaviour.

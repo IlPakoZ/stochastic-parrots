@@ -1,0 +1,95 @@
+-----
+--- 2571579
+Car batteries are seriously underrated as an off-grid power source. They can be charged in a day or less with low power alternative energy, even a 12v solar panel or smaller, and can power electronics for months once charged. Including lights, hot plates, laptop/phone/4gwifi, and so on. They can also be wired in sequence to create large battery banks to power houses for extended periods of time. Would be interesting to use in combination with a dugout or sturdy bushcraft shelter. I ran the math on the electrical usage, and a single car battery can power my pc and monitor for months on a single charge.
+--- 2571581
+Seems too good to be true. The option that we have right now its the anker portable station where you can recharge a laptop up to 10 times
+--- 2571582
+>>2571581
+It's really not that crazy and requires a bank of multiple batteries if you were to power the equivalent of a modern house. It's pretty common for solar power setups, but I was collecting some rainwater earlier and it got me thinking about getting essential resources like water and electricity off the grid. These 4G dongles plug into USB and provide wifi pretty far out into rural areas. It would be interesting to test this out with a 50 dollar chromebook and a 4G USB dongle.
+--- 2571592
+>>2571582
+Food: Hunting, fishing, gardening, gathering, canning, long term dry carbs
+Water: Rainwater harvesting, well water, filtering natural water
+Electricity: Car batteries and car battery banks, charged by a small solar panel or alternative energy
+Internet: 4G dongle for internet hotspot from cell data
+--- 2571596
+>>2571579 (OP)
+>>2571592
+Kek that's not how a car battery works.
+--- 2571600
+Lead-acid is a terrible idea for solar battery. They wont last a year except if you only charge it to 80% and discharge max to 50%, having only 30% of the total capacity available for use. I guess its fine if the biggest load you have is a smartphone and a laptop though, but to power a house its too vulnerable to deep discharge and degrading capacity thereby very fast.
+--- 2571604
+>>2571579 (OP)
+
+Using primitive solutions isn't as effective as modern power banks. They are cheap, incorporate all necessary functions and can connect and regulate solar panels directly.
+
+A BLUETTI EB3A is a small example and costs only 200 bucks. It can power a laptop for days and days constantly from a single charge. There's huge ones for a house that cost 2000 bucks also. You can run a washing machine/tv/dryer etc. From one of those.
+--- 2571612
+>>2571604
+
+So to power a home efficiently from solar power you could look at a bluetti AC300. Car batteries are just not made to hold and disperse energy efficiently.
+
+https://m.youtube.com/watch?v=t4VtcQHEMZc&amp;pp=ygUNYmx1ZXR0aSBhYzMwMA%3D%3D [Embed]
+--- 2571880
+>>2571579 (OP)
+get a 12vcd car socket and a car charger for your phone, this will save you from the electricity loss from a inverter and if you never buy a inverter save money
+--- 2571881
+>>2571579 (OP)
+Yeah regular cheap lead acid car batteries have a lot of drawbacks that you didn’t mention there.
+
+Deep cycle marine batteries are better for that application if you’re going to do lead acid. Regular car batteries don’t like being run all the way down like a cell phone battery and they need to be recharged constantly to last more than a year or two.
+--- 2571882
+>>2571600
+deep cycle or agm and it's fine, just like car starting batteries don't purchase cheap walmart batteries
+--- 2571902
+>>2571579 (OP)
+inb4
+>car battery just detonated during charging in my closet/garage and the fire burnt my whole house down what to do
+--- 2571913
+Lead acid of any kind is dogshit primitive battery tech.
+--- 2571930
+Yeah I could buy your fancy gizmos but car batteries just work and are far more cost effective. I’d rather have a simple, inexpensive means to access a lot of electricity. Nothing “primitive” about having electricity in the wilderness vs having none at all. A lot of these outdoor tailored batteries do not have much capacity or are way overpriced.
+--- 2571953
+Lead acid is alright if you don't need to move it or place large demands on it regularly but its has dog shit capacity to weight ratio and can't discharge more than 50% without doing damage to it. Lithium's are getting pretty cheap now so if you are building a system for a camper van you should just bite the bullet a build a decent battery out of cells and a get a BMS.
+--- 2571960
+A car battery is fine if you just need a quick and dirty solution for maybe keeping a laptop up and running for a day. But don't go relying on it as a long term solution. As others have stated, the marine / deep cycle are better options as they're the same flooded lead-acid cell technology but they run the risk of off-gassing. lifepo4 is your best choice. Study the difference in battery technologies between them all and choose the option that best suits your need. I've worked at some remote job sites in the ass end of no where and kept the 4g modem and laptop running for 10 hours off a fully charged $90 marine deep cycle battery from AutoZone and $30 inverter. Would that be my first choice if better options were available? Absolutely not. Did it do the job and do it well? Yes.
+--- 2571972
+>>2571882
+Its only fine if you dont put large continous loads on them. They go bad real fast otherwise.
+--- 2572064
+>>2571579 (OP)
+Last summer I found a 40lbs car battery 40k from the nearest trail or human footprint. Still wondering how it got there.
+--- 2572243
+>>2571579 (OP)
+
+Please post your math
+--- 2572247
+>>2572064
+Probably all kinds of marine fossils there, too.
+--- 2572383
+>>2571592
+You’re gonna run out of power in like 4 hours lol
+--- 2572385
+>>2571579 (OP)
+Car batteries are dog shit. Only use in cars where they provide a short current to start the car, then are perpetually charged by the engine. It’s over for batterycels.
+--- 2572386
+>>2571579 (OP)
+How about you run the math on how the shitty lead acid cell is going to deteriorate every charge and not hold anything because you let it drain too much before charging it. Your math probably used the best car battery on the market and costs like a grand
+--- 2572389
+>>2571579 (OP)
+And let me tell you something about solar. Unless you have a quarter million dollars, your solar panel will give you about enough power to use once appliance for four hours then it’s lights out for the rest of the day. And if you are in winter or fall months it’s even less than that.
+--- 2572405
+>>2571600
+>>2571579 (OP)
+>>2571612
+>>2571881
+Deep cycle golf cart batteries are the best bang for your buck used to set up huts in the woods with these bad boys acting as my power bank.
+--- 2572407
+>>2572064
+>>2572405
+--- 2572444
+>>2572405
+Nobody argues that it doesnt work. The argument is it doesnt lasts when used for more than charging a phone. Even the one you posted has a visible sticker of 12m warranty.
+--- 2572581
+>>2572444
+I run my cabin off AGM batteries.
