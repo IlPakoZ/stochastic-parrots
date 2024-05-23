@@ -2,6 +2,7 @@ from slm import *
 from glob import glob
 import os
 import platform
+from slm_sparse import *
 
 context_length = 3
 OS = platform.platform()
@@ -13,8 +14,8 @@ def get_model(context_length):
     tokenizer = Gpt2Tokenizer()
     embedder = Gpt2Embedder()
 
-    #predictor = FrequencyTablePredictor(context_length)
     predictor = EmbeddingTablePredictor(embedder, context_length)
+    #predictor = FrequencyTablePredictor(context_length, len(tokenizer.tokenizer))
 
     model = LanguageModel(
         tokenizer=tokenizer,
