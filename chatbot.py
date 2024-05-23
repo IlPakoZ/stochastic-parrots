@@ -57,7 +57,7 @@ def main():
 if __name__ == "__main__":
     context_length = 5
     app.config["context"] = []
-    model = pr.get_model(context_length)
+    model = pr.get_model(con    text_length)
     end_token = model.tokenizer("\2")[0]
     pr.train_model(model)
     #possible_starts = pr.get_possible_starts(model.predictor.follower_table, end_token)
