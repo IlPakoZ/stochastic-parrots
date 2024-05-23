@@ -26,13 +26,30 @@ def get_model(context_length):
 def generate(model, initial_context, end_token):
     #initial_context = tokens[:context_length]
     generator = model.generate(initial_context)
+    next(generator)
+    generated = []
+    for token in generator:
+        if token == end_token:
+            print(model.tokenizer.decode(generated[len(initial_context)-1:]).strip())
+
+            if model.tokenizer.decode(generated[len(initial_context)-1:]).strip():
+                return generated
+        generated.append(token)
+    return generated
+
+"""
+def generate(model, initial_context, end_token):
+    #initial_context = tokens[:context_length]
+    generator = model.generate(initial_context)
+
     yield next(generator)
 
     for token in generator:
         if token == end_token:
+            
             return
         yield token
-
+"""
 
 def get_possible_starts(freq_table, end_token):
     # ------- FOR DEMO -------

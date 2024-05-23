@@ -11,7 +11,17 @@ app = Flask(__name__)
 def generate_response(initial_context):
     #initial_context = pr.get_initial_context(possible_starts)
     tokens = pr.generate(model, initial_context, end_token)
-    generated_tokens = list(tokens)[len(initial_context):]
+    generated_tokens = tokens[len(initial_context):]
+    #print(list(tokens))
+    #print(model.tokenizer.decode(tokens))
+    #while not model.tokenizer.decode(generated_tokens).strip():
+        #print("Response: ", model.tokenizer.decode(generated_tokens))
+        #print(model.tokenizer.decode(tokens))
+        #print("DEBUG: Response empty, generating new context...")
+        #tokens = pr.generate(model, initial_context, end_token)
+        #print(tokens)
+
+   
     generated_text = model.tokenizer.decode(generated_tokens)
     return generated_text
 
@@ -45,13 +55,13 @@ def main():
     app.run(port=args.port, debug=True)
 
 if __name__ == "__main__":
-    context_length = 4
+    context_length = 5
     app.config["context"] = []
     model = pr.get_model(context_length)
     end_token = model.tokenizer("\2")[0]
     pr.train_model(model)
     #possible_starts = pr.get_possible_starts(model.predictor.follower_table, end_token)
 
-    random.seed(1933)
+    #random.seed(1933)
 
     main()
