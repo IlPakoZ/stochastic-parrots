@@ -48,15 +48,17 @@ class UnderstandMe:
         except sr.RequestError as e:
             return f"Could not request results from Google Speech Recognition service; {e}"
 
-if __name__=='__main__':
+## This is how you can use the two
+
+#if __name__=='__main__':
     #Speaking = SpeakNow()
-    #ext = "4Chan is the best forum"
+    #text = "4Chan is the best forum"
     #voices = Speaking.tts_engine.getProperty('voices')
     
     #for voice in voices: 
     #    print(f"Vice: {voice.name} ({voice.id})")    
     #    Speaking.handle_user_input(text)
-    recognize = UnderstandMe()
-    recording = recognize.record_audio()
-    text = recognize.audio_to_text(recording)
-    print(text)
+    #recognize = UnderstandMe()
+    #recording = recognize.record_audio()
+    #text = recognize.audio_to_text(recording)
+    #print(text)
