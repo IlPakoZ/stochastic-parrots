@@ -71,7 +71,7 @@ def clear_console():
         os.system("cls")
 
 def train_model(model):
-    for file in glob("./r9k/res/729*"):
+    for file in glob("./r9k/res/*"):
         #print(file)
 
         text = open(file, encoding="utf-8", errors="ignore")

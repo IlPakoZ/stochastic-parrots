@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify, send_from_directory
 import argparse
-import project_rant as pr
-#import project_out as pr
+#import project_rant as pr
+import project_rant_out as pr
 
 import random
 from speech_recog import *
