@@ -1,2 +1,5 @@
 torch
 transformers
+SpeechRecognition
+pyttsx3
+sounddevice
