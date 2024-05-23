@@ -1,7 +1,15 @@
 from flask import Flask, request, jsonify, send_from_directory
 import argparse
 import project_rant as pr
+#import project_out as pr
+
 import random
+from speech_recog import *
+from threading import Thread
+
+
+listen = UnderstandMe()
+
 
 app = Flask(__name__)
 
@@ -36,10 +44,11 @@ def chat():
     #print(app.config["context"])
 
     response = generate_response(app.config["context"])
-    #print(response)
+    print(response)
     app.config["context"] += model.tokenizer(response) + model.tokenizer("\n")
-
     print("Context:", model.tokenizer.decode(app.config["context"]))
+    print(response)
+    Thread(target=lambda: SpeakNow().speak(response)).start()
     return jsonify({"response": response})
 
 # Route to serve the index.html file
@@ -52,10 +61,10 @@ def main():
     parser.add_argument('--port', type=int, default=5000, help='Port to run the Flask server on.')
     args = parser.parse_args()
     
-    app.run(port=args.port, debug=True)
+    app.run(port=args.port, debug=False)
 
 if __name__ == "__main__":
-    context_length = 5
+    context_length = 2
     app.config["context"] = []
     model = pr.get_model(context_length)
     end_token = model.tokenizer("\2")[0]

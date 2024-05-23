@@ -25,6 +25,7 @@ def generate_response(initial_context):
     generated_text = model.tokenizer.decode(generated_tokens)
     return generated_text
 
+import sys
 # Route to handle chat requests
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -36,7 +37,7 @@ def chat():
     #print(app.config["context"])
 
     response = generate_response(app.config["context"])
-    #print(response)
+    print(response, file=sys.stderr)
     app.config["context"] += model.tokenizer(response) + model.tokenizer("\n")
 
     print("Context:", model.tokenizer.decode(app.config["context"]))
@@ -52,7 +53,7 @@ def main():
     parser.add_argument('--port', type=int, default=5000, help='Port to run the Flask server on.')
     args = parser.parse_args()
     
-    app.run(port=args.port, debug=True)
+    app.run(port=args.port, debug=False)
 
 if __name__ == "__main__":
     context_length = 5
