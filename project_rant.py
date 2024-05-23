@@ -11,13 +11,13 @@ def get_model(context_length):
     #tokenizer = SpaceTokenizer()
     tokenizer = Gpt2Tokenizer()
 
-    base_predictor = FrequencyTablePredictor(context_length)
-    embedder = Gpt2Embedder()
-    predictor = EmbeddingTablePredictor(embedder, context_length, predictor=base_predictor)
+    base_predictor = FrequencyTablePredictor(context_length, bail_to_random=True)
+    #embedder = Gpt2Embedder()
+    #predictor = EmbeddingTablePredictor(embedder, context_length, predictor=base_predictor)
     
     model = LanguageModel(
             tokenizer=tokenizer,
-            predictor=predictor
+            predictor=base_predictor
             )
 
     return model
