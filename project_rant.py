@@ -2,9 +2,7 @@ from slm import *
 from glob import glob
 import os
 import platform
-from slm_sparse import *
 
-context_length = 3
 OS = platform.platform()
 
 def get_model(context_length):
@@ -12,15 +10,15 @@ def get_model(context_length):
     #tokenizer = CharacterTokenizer()
     #tokenizer = SpaceTokenizer()
     tokenizer = Gpt2Tokenizer()
+
+    base_predictor = FrequencyTablePredictor(context_length)
     embedder = Gpt2Embedder()
-
-    predictor = EmbeddingTablePredictor(embedder, context_length)
-    #predictor = FrequencyTablePredictor(context_length, len(tokenizer.tokenizer))
-
+    predictor = EmbeddingTablePredictor(embedder, context_length, predictor=base_predictor)
+    
     model = LanguageModel(
-        tokenizer=tokenizer,
-        predictor=predictor
-    )
+            tokenizer=tokenizer,
+            predictor=predictor
+            )
 
     return model
 
@@ -72,10 +70,13 @@ def clear_console():
     elif "Windows" in OS:
         os.system("cls")
 
-
 def train_model(model):
-    for file in glob("./r9k/res/7296*"):
-        text = open(file)
-        text = text.read()
-        tokens = model.tokenizer(text)
+    for file in glob("./r9k/res/729*"):
+        #print(file)
+
+        text = open(file, encoding="utf-8", errors="ignore")
+        txt = text.read()
+        text.close()
+        tokens = model.tokenizer(txt)
         model.train(tokens)
+            

@@ -23,7 +23,7 @@ testing testing
 sss
 --- 73154348
 >>73154338
->>73154323 →
+>>73154323 
 
 will my plans have succeeded
 --- 73154351
