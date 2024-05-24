@@ -23,6 +23,12 @@ class LanguageModel:
     def train(self, tokens):
         data = self.get_training_data(tokens)
         self.predictor.train(data)
+    
+    def tokenize(self, text):
+        return self.tokenizer(text)
+
+    def detokenize(self, tokens):
+        return self.tokenizer.decode(tokens)
 
     def pad_context(self, context):
         l = len(context)
@@ -117,4 +123,9 @@ class FrequencyTablePredictor:
         context = tuple(context)
         self.follower_table[context][target] += 1
 
-
+class FrequencyTableModel(LanguageModel):
+    def __init__(self, context_length):
+        super().__init__(
+            tokenizer=SpaceTokenizer(),
+            predictor=SpacePredictor()
+                )

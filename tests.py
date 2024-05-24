@@ -61,8 +61,27 @@ def test_freq_table_bailout():
     output_text = model.tokenizer.decode(output_tokens)
     assert output_text == "This is not in corpusazaz bar baz fooaz baz foo"
 
+def _test_nn_model():
+    from slm_nn import NnLanguageModel
+    model = NnLanguageModel()
+    
+    torch.set_printoptions(threshold=3)
+    wtf = model.predictor("Hello")
+    print(wtf)
+    exit()
+
+    text = open("./sample_data/72973401.txt").read()
+    model.train_text(text, num_train_epochs=20)
+    thread = "<comment>\n"
+    thread += model.generate_text(thread, max_tokens=200, temperature=2.0)
+    thread += model.generate_text(thread, max_tokens=200, temperature=2.0)
+    print(thread)
+    #print(model.generate_text("Mikä?", max_tokens=100))
+    #print(model.generate_text(model.tokenizer.bos_token + "Haista", max_tokens=100))
+
 if __name__ == "__main__":
     #test_fast_table()
     #test_fast_embedding_table()
-    test_freq_table_bailout()
+    #test_freq_table_bailout()
+    _test_nn_model()
 
