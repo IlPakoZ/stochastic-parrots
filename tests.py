@@ -61,8 +61,16 @@ def test_freq_table_bailout():
     output_text = model.tokenizer.decode(output_tokens)
     assert output_text == "This is not in corpusazaz bar baz fooaz baz foo"
 
+def _test_nn_model():
+    from slm_nn import NnLanguageModel
+    model = NnLanguageModel()
+    print("Training")
+    model.train_text("Haista hanuri!", num_train_epochs=10)
+    print(model.generate_text("Haista", max_tokens=10))
+
 if __name__ == "__main__":
     #test_fast_table()
     #test_fast_embedding_table()
-    test_freq_table_bailout()
+    #test_freq_table_bailout()
+    _test_nn_model()
 
