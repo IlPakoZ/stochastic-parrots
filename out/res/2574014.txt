@@ -16,8 +16,7 @@ https://en.wikipedia.org/wiki/Near_vertical_incidence_skywave
 have to summit to get there anyway, is it realistic to set something like that up en route? is it vulnerable to the elements?
 About 2 miles, bird's flight. something like a 3000ft climb
 how do you think i know where the mountain is dumbass?
-is it realistic to set something like that up en route? is it vulnerable to the elements?
-Two UV-5Rs can be turned into a simple cheap repeater, there's some guides on it. Then just put it in a dry case (or in a plastic bag or something if you use a big antenna lole) and tie it up in a tree.
+Two UV-5Rs can be turned into a simple cheap repeater, there's some guides on it. Then just put it in a dry case (or in a plastic bag or something if you use a big antenna lole) and tie it up in a tree.
 Satellite phone. Everything else is likely outside the scope of your project unless your building a base and network.
 Just use cellphones. Stop pretending you're in a remote area.
 This should do it. You can write your own calls and meanings.

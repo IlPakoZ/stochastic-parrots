@@ -29,8 +29,7 @@ Also, an ebike for bikepacking feels like a segway for hiking - I can't help but
 Inspired me to get my shitty ild bike up and running again
 1) When you bike (at least in Europe), you come by multiple shops a day. So you can replenish your comestibles often, and don't need to pack lots.
 2) Except from a small repair kit, take the chain lube with you. If you get caught by a heavy rain, it'll probably wash off all the lube and your bike will end up annoyingly loud.
- plan for flat tires
-Puncture-proof tires really do the job. 
+Puncture-proof tires really do the job. 
 3) I do plan my route, but usually I don't plan exact number of days and accommodation spots. This is because whenever I discover interesting things, I just stop to see them.
 So i make myself a list of options where I can sleep (including areas where I can legally use a tent).
 4) Do install fenders. You can't predict whether it'll rain in a week.
@@ -38,25 +37,25 @@ So i make myself a list of options where I can sleep (including areas where I ca
 6) I often camp in the middle of nowhere two-three days in a row when I can't find accommodation, so I bought a hub dynamo USB charger to power my phone. It does not output enough power to keep the display on, but enough for GPS, recording route and offline maps (OsmAnd).
 7) Conserve your energy. I know you are able to ride through sand, but if you plan to ride for a week, just get off and push the bike through heavier terrain.
 Puncture-proof tires really do the job
-do you trust them 100%? Those can still get punctured and if you don't have any replacement or repair kit you're kinda fucked.
-Do install fenders
-That's something that caught my eye when I was checking out videos and blogposts on bikepacking. Lots of people don't seem to use them. How do they do it? Even if you don't care for your pack on the back side, all the mud gets flung right in your face from the front wheel.
-Keep in mind that you have a full day
-Yeah, maybe I underestimate how much time there is in a day. I guess it also depends on where you're traveling. (lots of stuff to see vs vast empty roads)
-I often camp in the middle of nowhere
-I'll be traveling in Europe too. Do you have any experience with wild camping? It's pretty much forbidden or heavily restricted in all European countries, yet I see people doing it all the time in lots of videos.
+do you trust them 100%? Those can still get punctured and if you don't have any replacement or repair kit you're kinda fucked.
+Do install fenders
+That's something that caught my eye when I was checking out videos and blogposts on bikepacking. Lots of people don't seem to use them. How do they do it? Even if you don't care for your pack on the back side, all the mud gets flung right in your face from the front wheel.
+Keep in mind that you have a full day
+Yeah, maybe I underestimate how much time there is in a day. I guess it also depends on where you're traveling. (lots of stuff to see vs vast empty roads)
+I'll be traveling in Europe too. Do you have any experience with wild camping? It's pretty much forbidden or heavily restricted in all European countries, yet I see people doing it all the time in lots of videos.
 On another note, anyone with experience on portable solar panels or dynamo chargers?
 Somehow I can't imagine a small solar panel generating enough output to charge a phone on an average, slightly cloudy day. On the other hand I imagine you could have a larger one folded up and only use it partially on the road but spread it fully while camping. Maybe that's all nonsense - have no experience with solar panels.
 And when it comes to other options the only dynamo charger I could find with a quick search was the PedalCell one and that's just ridiculously expensive.
 Puncture-proof tires really do the job
-do you trust them 100%?
-Obviously I don't trust them 100%, and I do carry a replacement (and a tiny repair kit). But they really save you most of the time.
+Obviously I don't trust them 100%, and I do carry a replacement (and a tiny repair kit). But they really save you most of the time.
 When I was abroad for an internship a few years ago, I got a bike that did not have any puncture protection and within three months I got flat tire more times than in the last dozen of years, even though I buy cheap tires (continental ride tour right now).
-I'll be travelling in Europe too. Do you have any experience with wild camping? It's pretty much forbidden or heavily restricted in all European countries, yet I see people doing it all the time in lots of videos.
-I'm from Poland, and there are selected areas within forests where it's legal to camp. When I can't find any sane accommodation, I look up these areas. If none of these is around, I just look up some forest that is far enough from houses and camp there. (Far enough = too far for people walking dogs.)
+do you trust them 100%?
+Obviously I don't trust them 100%, and I do carry a replacement (and a tiny repair kit). But they really save you most of the time.
+When I was abroad for an internship a few years ago, I got a bike that did not have any puncture protection and within three months I got flat tire more times than in the last dozen of years, even though I buy cheap tires (continental ride tour right now).
+I'll be travelling in Europe too. Do you have any experience with wild camping? It's pretty much forbidden or heavily restricted in all European countries, yet I see people doing it all the time in lots of videos.
+I'm from Poland, and there are selected areas within forests where it's legal to camp. When I can't find any sane accommodation, I look up these areas. If none of these is around, I just look up some forest that is far enough from houses and camp there. (Far enough = too far for people walking dogs.)
 Since I usually end up camping in the wild once it's getting dark and leave in the morning, I never had issues with it. I think that it's unlikely to meet anyone if you camp outside touristic areas and nature reserves / national parks. In the former it's easy to find accommodation, and the latter are small enough (from biker's perspective) to camp away from them.
-the only dynamo charger I could find with a quick search was the PedalCell one and that's just ridiculously expensive.
-ORLY? https://www.cyclingabout.com/list-of-hub-dynamo-power-supplies-for-usb-devices/
+ORLY? https://www.cyclingabout.com/list-of-hub-dynamo-power-supplies-for-usb-devices/
 Some DIY people are selling these on auction portal in Poland for about €30 (e.g. https://allegro.pl/oferta/ladowarka-rowerowa-usb-md14-nowa-wzmocniona-13602967861). I got one of these and it works as advertised.
 There used to be a lot of schematics such as this one: https://digitalab.org/2017/05/bicycle-usb-charger/ for /diy/ing these.
 (contd)
@@ -67,9 +66,8 @@ Check /diy/ people in your country.
 It's like ultralight autism but for bikers. Carbon frames are lighter and durability usually isnt an issue since the most vulnerable components like derailleur or brakes are still metal. It probably makes travelling long distances a bit easier especially if you're doing stuff that leans more on the /xs/ side on the way. I wouldn't drop a few thousand on a frame for that though when aluminum exists.
 Are there any resources you use for planning a route? I wanna try going outside of the city, but all the routes google gives me are spending days going on highways, and that doesn't sound very safe.
 I wanna try going outside of the city, but all the routes google gives me are spending days going on highways, and that doesn't sound very safe.
-Toggle it to routing for bikes. Helps a lot.
-Are there any resources you use for planning a route?
-First, I make a 'research' by looking at maps &amp; googling for interesting places to stop. Regard:
+Toggle it to routing for bikes. Helps a lot.
+First, I make a 'research' by looking at maps &amp; googling for interesting places to stop. Regard:
 1) opencyclemap.org (and openstreetmap.org)
 2) mapy.cz are nice online maps for many countries in Europe (you don't need an account, cancel creating it; then you need to select the touristic map)
 3) look up maps of tourist attractions / interesting places; these are often biased, but still you might find nice things (e.g., for Poland there is http://mapa.polskaniezwykla.pl/)
@@ -92,12 +90,11 @@ How do you manage your security?
 Do you secure your bike/camping equipment on camping grounds? Do you ever leave your shit unattended when solo traveling?
 Are gravel bikes better for multiday trips on poor roads and tracks? I'm thinking of doing the Kintyre way and Arran
 How do you manage your security?
-Never had problem with this. It's safe to sleep in dedicated places (camping sites, hostels etc.), for owners just call the police if anyone gets too drunk and starts causing problems. And when I pitch my tent in the middle of nowhere, my biggest concern is not to get trampled by a scared off dear.
-Do you secure your bike/camping equipment on camping grounds?
-I do secure my bike, just like I do when I commute.
+Never had problem with this. It's safe to sleep in dedicated places (camping sites, hostels etc.), for owners just call the police if anyone gets too drunk and starts causing problems. And when I pitch my tent in the middle of nowhere, my biggest concern is not to get trampled by a scared off dear.
+Do you secure your bike/camping equipment on camping grounds?
+I do secure my bike, just like I do when I commute.
 When I arrive early on camping site, I sometimes leave my tent with clothing, food etc. unattended, but I take those few items worth stealing (such as my camera) with me. I always take for this purpose a lightweight drawstring bag. It takes almost no space and can be used as a small backpack (I use it also to carry food I bought in the last shop before stopping for the night).
-Do you ever leave your shit unattended when solo traveling?
-My biggest concern is when I visit popular touristic attractions such as museums, mansions, etc. The traffic is too big there to leave things unattended. Unless I can leave my panniers behind the desk (which usually is not a big deal), I skip the attraction.
+My biggest concern is when I visit popular touristic attractions such as museums, mansions, etc. The traffic is too big there to leave things unattended. Unless I can leave my panniers behind the desk (which usually is not a big deal), I skip the attraction.
 When I shop in some random village, I even leave my phone on the handlebar. It's much more likely that local kids will do some stupid joke than that someone steals from you there.
 didn't realise there was some sort of hole and it basically teared, don't know what happened.
 better than what?
@@ -128,8 +125,7 @@ When it comes to low bar frames. From what I know, traditionally they're for wom
 5. Have some ready snacks (protein/energie bars), pack magnesium/mineral tablets to help against cramps
 6. A compass really can help sometimes.
 3. two bottle holders are better than one.
-Care to explain?
-5. (…) pack magnesium/mineral tablets to help against cramps
-Wtf am I reading? Go to a doctor?
-6. A compass really can help sometimes.
-Just mount your phone to the handlebar...
+Care to explain?
+5. (…) pack magnesium/mineral tablets to help against cramps
+Wtf am I reading? Go to a doctor?
+Just mount your phone to the handlebar...

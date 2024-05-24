@@ -16,7 +16,6 @@ https://m.youtube.com/watch?v=t4VtcQHEMZc&amp;pp=ygUNYmx1ZXR0aSBhYzMwMA%3D%3D [E
 Deep cycle marine batteries are better for that application if you’re going to do lead acid. Regular car batteries don’t like being run all the way down like a cell phone battery and they need to be recharged constantly to last more than a year or two.
 deep cycle or agm and it's fine, just like car starting batteries don't purchase cheap walmart batteries
 inb4
-car battery just detonated during charging in my closet/garage and the fire burnt my whole house down what to do
 Lead acid of any kind is dogshit primitive battery tech.
 Yeah I could buy your fancy gizmos but car batteries just work and are far more cost effective. I’d rather have a simple, inexpensive means to access a lot of electricity. Nothing “primitive” about having electricity in the wilderness vs having none at all. A lot of these outdoor tailored batteries do not have much capacity or are way overpriced.
 Lead acid is alright if you don't need to move it or place large demands on it regularly but its has dog shit capacity to weight ratio and can't discharge more than 50% without doing damage to it. Lithium's are getting pretty cheap now so if you are building a system for a camper van you should just bite the bullet a build a decent battery out of cells and a get a BMS.
