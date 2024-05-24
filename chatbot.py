@@ -14,7 +14,6 @@ listen = UnderstandMe()
 app = Flask(__name__)
 
 
-
 # Define a function to generate responses based on user input
 def generate_response(initial_context):
     #initial_context = pr.get_initial_context(possible_starts)
@@ -36,7 +35,9 @@ def generate_response(initial_context):
 # Route to handle chat requests
 @app.route("/chat", methods=["POST"])
 def chat():
+    
     user_message = request.json.get("message", "")
+    
     new_context = model.tokenizer(user_message)
     app.config["context"] += new_context + model.tokenizer("\n")
     print("Context:", model.tokenizer.decode(app.config["context"]))
@@ -50,6 +51,21 @@ def chat():
     print(response)
     Thread(target=lambda: SpeakNow().speak(response)).start()
     return jsonify({"response": response})
+
+@app.route("/record", methods=["POST"])
+def record():
+    record  = listen.record_audio()
+    transcript = listen.audio_to_text(record)
+    print(transcript)
+    new_context = model.tokenizer(transcript)
+    app.config["context"] += new_context + model.tokenizer("\n")
+    response = generate_response(app.config["context"])
+    app.config["context"] += model.tokenizer(response) + model.tokenizer("\n")
+    print("Context:", model.tokenizer.decode(app.config["context"]))
+    print(response)
+    Thread(target=lambda: SpeakNow().speak(response)).start()
+    return jsonify({"transcript": transcript, "response": response})
+
 
 # Route to serve the index.html file
 @app.route('/')

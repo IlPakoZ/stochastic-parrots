@@ -100,6 +100,7 @@
 
     <script>
         document.getElementById("send-btn").onclick = sendMessage;
+        document.getElementById("record-btn").onclick = recordMessage;
         document.getElementById("user-input").addEventListener("keydown", function(event) {
             if (event.key === "Enter") {
                 sendMessage();
@@ -133,6 +134,21 @@
                 });
             }
         }
+        
+        function recordMessage() {
+            fetch("/record", {
+                method: "POST"
+            })
+            .then(response => response.json())
+            .then(data => {
+                addMessage("You", data.transcript, "user");
+                addMessage("4ChanBot", data.response, "bot");
+            })
+            .catch(error =>{
+                console.error("Error:", error); 
+            })
+        }
+
 
         function addMessage(sender, message, senderType) {
             var chatBox = document.getElementById("chat-box");
