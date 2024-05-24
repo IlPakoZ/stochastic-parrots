@@ -65,14 +65,13 @@
             border-radius: 10px;
             margin-right: 10px;
         }
-        #send-btn, #record-btn {
+        #send-btn {
             padding: 10px 15px;
             border: none;
             border-radius: 10px;
             background-color: #9771b9;
             color: #fff;
             cursor: pointer;
-            margin-left: 5px;
         }
         #send-btn:hover {
             background-color: #7a529a;
@@ -93,7 +92,7 @@
         <div class="chat-footer">
             <input type="text" id="user-input" placeholder="Type a message...">
             <button id="send-btn">Send</button>
-            <button id="record-btn">Record</button>
+            <button id="record-btn">Record (5s)</button>
         </div>
         <div id="typing-indicator" class="typing-indicator">4ChanBot is typing...</div>
     </div>
@@ -125,8 +124,6 @@
                 .then(data => {
                     addMessage("4ChanBot", data.response, "bot");
                     showTypingIndicator(false);
-                    const utterance = new SpeechSynthesisUtterance(data.response);
-                    window.speechSynthesis.speak(utterance);
                 })
                 .catch(error => {
                     console.error("Error:", error);
@@ -166,54 +163,6 @@
 
         window.onload = function() {
             document.getElementById("user-input").focus();
-        };
-
-
-        const recordButton = document.getElementById('record-btn');
-        let mediaRecorder;
-        let audioChunks = [];
-
-        recordButton.onclick = async function() {
-            if (!mediaRecorder || mediaRecorder.state === 'inactive') {
-                const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-                mediaRecorder = new MediaRecorder(stream);
-
-                mediaRecorder.ondataavailable = function(event) {
-                    audioChunks.push(event.data);
-                };
-
-                mediaRecorder.onstop = function() {
-                    const audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
-                    const audioUrl = URL.createObjectURL(audioBlob);
-                    const audio = new Audio(audioUrl);
-                    audio.play();
-
-                    const formData = new FormData();
-                    formData.append('audio', audioBlob, 'audio.wav');
-
-                    fetch('/upload_audio', {
-                        method: 'POST',
-                        body: formData
-                    })
-                    .then(response => response.json())
-                    .then(data => {
-                        addMessage("4ChanBot", data.response, "bot");
-                        const utterance = new SpeechSynthesisUtterance(data.response);
-                        window.speechSynthesis.speak(utterance);
-                    })
-                    .catch(error => {
-                        console.error("Error:", error);
-                    });
-
-                    audioChunks = [];
-                };
-
-                mediaRecorder.start();
-                recordButton.textContent = 'Stop';
-            } else if (mediaRecorder.state === 'recording') {
-                mediaRecorder.stop();
-                recordButton.textContent = 'Record';
-            }
         };
     </script>
 </body>
