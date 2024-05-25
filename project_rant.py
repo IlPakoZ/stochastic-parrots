@@ -2,6 +2,7 @@ from slm import *
 from glob import glob
 import os
 import platform
+from slm_nn import *
 
 OS = platform.platform()
 
@@ -9,27 +10,29 @@ def get_model(context_length):
     #tokenizer = WhitespaceTokenizer()
     #tokenizer = CharacterTokenizer()
     #tokenizer = SpaceTokenizer()
-    tokenizer = Gpt2Tokenizer()
+    #tokenizer = Gpt2Tokenizer()
 
-    base_predictor = FrequencyTablePredictor(context_length, bail_to_random=True)
+    #base_predictor = FrequencyTablePredictor(context_length, bail_to_random=True)
     #embedder = Gpt2Embedder()
     #predictor = EmbeddingTablePredictor(embedder, context_length, predictor=base_predictor)
     
-    model = LanguageModel(
-            tokenizer=tokenizer,
-            predictor=base_predictor
-            )
+    model = NnLanguageModel("jampekka/4chan_r9k")
 
     return model
 
 def generate(model, initial_context, end_token):
     #initial_context = tokens[:context_length]
+    print(initial_context)
     generator = model.generate(initial_context)
-    next(generator)
+    #next(generator)
     generated = []
     for token in generator:
+        if len(generated) > 80:
+            if token == model.tokenizer("\n")[0] or token == model.tokenizer(".")[0]:
+                generated.append(token)
+                return generated 
         if token == end_token:
-            print(model.tokenizer.decode(generated[len(initial_context)-1:]).strip())
+            #print(model.tokenizer.decode(generated[len(initial_context)-1:]).strip())
 
             if model.tokenizer.decode(generated[len(initial_context)-1:]).strip():
                 return generated
@@ -71,7 +74,7 @@ def clear_console():
         os.system("cls")
 
 def train_model(model):
-    for file in glob("./r9k/res/*"):
+    for file in glob("./out/res/*"):
         #print(file)
 
         text = open(file, encoding="utf-8", errors="ignore")
